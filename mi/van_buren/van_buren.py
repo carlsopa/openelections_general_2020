@@ -2,7 +2,7 @@ import tabula
 import pandas as pd
 
 new = True
-pdf_file = 'Midland MI Results per Precinct Data report.pdf'
+pdf_file = 'Van Buren MI Results per Precinct Data report.pdf'
 #unable to get the race from the first page, so we have to manually add it in
 race_name = 'United States Senator'
 precinct = []
@@ -10,7 +10,7 @@ candidate = []
 votes = []
 race = []
 start_page = 1
-end_page = 7
+end_page = 5
 while start_page <= end_page:
     data = tabula.read_pdf(pdf_file,multiple_tables=True,lattice=False,stream=False,pages=(start_page))
     new = False
@@ -37,23 +37,23 @@ while start_page <= end_page:
                     skip_rows.append(index)
                     count = 1
                     candidateList = []
-                    while count < len(df.columns.values):
-                        #specific use cases for the midland county results.  Several pages, had combined rows together that I need to split apart.
-                        if str(rows[count]).count('Party') == 2:
-                            candidateList.append('Green Party')
-                            candidateList.append('Natural Law Party')
-                        elif 'Amy Slepr Total' in str(rows[count]):
-                            candidateList.append('Amy Slepr')
-                            candidateList.append('Total Write-in')
-                        elif 'Melissa Noelle Lambert Total ' in str(rows[count]):
-                            candidateList.append('Melissa Noelle Lambert')
-                            candidateList.append('Total Write-in')
-                        elif 'Fuente/Darcy Total' in str(rows[count]):
-                            candidateList.append('Rocky De La Fuente/Darcy')
-                            candidateList.append('Total Write-in')
-                        else:
-                            candidateList.append(rows[count])    
-                        count = count + 1
+                    # while count < len(df.columns.values):
+                    #     #specific use cases for the midland county results.  Several pages, had combined rows together that I need to split apart.
+                    #     if str(rows[count]).count('Party') == 2:
+                    #         candidateList.append('Green Party')
+                    #         candidateList.append('Natural Law Party')
+                    #     elif 'Amy Slepr Total' in str(rows[count]):
+                    #         candidateList.append('Amy Slepr')
+                    #         candidateList.append('Total Write-in')
+                    #     elif 'Melissa Noelle Lambert Total ' in str(rows[count]):
+                    #         candidateList.append('Melissa Noelle Lambert')
+                    #         candidateList.append('Total Write-in')
+                    #     elif 'Fuente/Darcy Total' in str(rows[count]):
+                    #         candidateList.append('Rocky De La Fuente/Darcy')
+                    #         candidateList.append('Total Write-in')
+                    #     else:
+                    #         candidateList.append(rows[count])    
+                    #     count = count + 1
                     #single case issue, where the names of the candidates are broken across two lines.  This combines the lines in the candidatelist array.
                     if not pd.notnull(df.iloc[index+1,0]):
                         skip_rows.append(index+1)
@@ -93,4 +93,4 @@ while start_page <= end_page:
 
 final = {'precinct':precinct,'race':race,'candidate':candidate,'votes':votes}
 new = pd.DataFrame(final)
-new.to_csv('20201103_mi_general_midland_precinct.csv')
+new.to_csv('20201103_mi_general_van_buren_precinct.csv')
