@@ -4,7 +4,7 @@ import pandas as pd
 new = True
 pdf_file = 'Van Buren MI Results per Precinct Data report.pdf'
 #unable to get the race from the first page, so we have to manually add it in
-race_name = 'United States Senator'
+race_name = 'President/Vice Pres'
 precinct = []
 candidate = []
 votes = []
@@ -22,7 +22,7 @@ while start_page <= end_page:
             df.drop(df.columns[0],axis=1,inplace=True)
             for index, row in df.iterrows():
                 for i in range(len(df.columns.values)):
-                    if i > 1:
+                    if i >= 1:
                         candidate.append(df.columns.values[i])
                         votes.append(df.iloc[index,i])
                         precinct.append(df.iloc[index,0])
@@ -37,23 +37,9 @@ while start_page <= end_page:
                     skip_rows.append(index)
                     count = 1
                     candidateList = []
-                    # while count < len(df.columns.values):
-                    #     #specific use cases for the midland county results.  Several pages, had combined rows together that I need to split apart.
-                    #     if str(rows[count]).count('Party') == 2:
-                    #         candidateList.append('Green Party')
-                    #         candidateList.append('Natural Law Party')
-                    #     elif 'Amy Slepr Total' in str(rows[count]):
-                    #         candidateList.append('Amy Slepr')
-                    #         candidateList.append('Total Write-in')
-                    #     elif 'Melissa Noelle Lambert Total ' in str(rows[count]):
-                    #         candidateList.append('Melissa Noelle Lambert')
-                    #         candidateList.append('Total Write-in')
-                    #     elif 'Fuente/Darcy Total' in str(rows[count]):
-                    #         candidateList.append('Rocky De La Fuente/Darcy')
-                    #         candidateList.append('Total Write-in')
-                    #     else:
-                    #         candidateList.append(rows[count])    
-                    #     count = count + 1
+                    while count < len(df.columns.values):
+                        candidateList.append(rows[count])    
+                        count = count + 1
                     #single case issue, where the names of the candidates are broken across two lines.  This combines the lines in the candidatelist array.
                     if not pd.notnull(df.iloc[index+1,0]):
                         skip_rows.append(index+1)
@@ -71,19 +57,23 @@ while start_page <= end_page:
                             if not pd.notnull(df.iloc[index,i]):
                                 pass
                             else:
-                                race.append(race_name)
-                                #several pages combined the results into one column, this will split that into two columns and store the data correctly.
-                                if ' ' in str(df.iloc[index,i]):
-                                    votes.append(df.iloc[index,i].split(' ')[0])
-                                    votes.append(df.iloc[index,i].split(' ')[1])
-                                    candidate.append(candidateList[-2])
-                                    candidate.append(candidateList[-1])
-                                    precinct.append(df.iloc[index,0])
-                                    race.append(race_name)
+                                #it reads to the end of page 5 which includes State Board of Education, so if it is there, do nothing with the data.
+                                if race_name == 'State Board of Education':
+                                    pass
                                 else:
-                                    votes.append(df.iloc[index,i])
-                                    candidate.append(candidateList[i-1])
-                                precinct.append(df.iloc[index,0])
+                                    race.append(race_name)
+                                    #several pages combined the results into one column, this will split that into two columns and store the data correctly.
+                                    if ' ' in str(df.iloc[index,i]):
+                                        votes.append(df.iloc[index,i].split(' ')[0])
+                                        votes.append(df.iloc[index,i].split(' ')[1])
+                                        candidate.append(candidateList[-2])
+                                        candidate.append(candidateList[-1])
+                                        precinct.append(df.iloc[index,0])
+                                        race.append(race_name)
+                                    else:
+                                        votes.append(df.iloc[index,i])
+                                        candidate.append(candidateList[i-1])
+                                    precinct.append(df.iloc[index,0])
                 if rows[0] == 'Total' and index != len(df)-1:
                     skip_rows.append(index+1)
                     race_name = df.iloc[index+1,0]
