@@ -1,16 +1,42 @@
 import tabula
 import pandas as pd
+import numpy as np
 
 new = True
 pdf_file = 'Midland MI Results per Precinct Data report.pdf'
 #unable to get the race from the first page, so we have to manually add it in
 race_name = 'United States Senator'
+location = []
 precinct = []
 candidate = []
 votes = []
 race = []
+district = []
 start_page = 1
 end_page = 7
+
+#function that takes a race name and then will split apart any district numbers, which will then be placed into their own column
+def local_district(race):
+    index = 1
+    integer = True
+    district_numbers = []
+    result = 0
+    c = ''
+    if 'th' in race:
+        race = race[:race.find('th')]
+        while integer:
+            try:
+                district_numbers.append(int(race[-index]))
+                index = index + 1
+            except:
+                integer = False
+        for x in district_numbers:
+            c = c+str(x)
+        result = [race[:-index+1],c]
+    else:
+        result = [race,np.nan]
+    return(result)
+    
 while start_page <= end_page:
     data = tabula.read_pdf(pdf_file,multiple_tables=True,lattice=False,stream=False,pages=(start_page))
     new = False
@@ -26,7 +52,8 @@ while start_page <= end_page:
                         candidate.append(df.columns.values[i])
                         votes.append(df.iloc[index,i])
                         precinct.append(df.iloc[index,0])
-                        race.append(race_name)
+                        district.append(local_district(race_name)[1])
+                        race.append(local_district(race_name)[0])
         else:
             df.drop(df.columns[0],axis=1,inplace=True)
             #an array of row indexes to skip and not process.
@@ -71,7 +98,8 @@ while start_page <= end_page:
                             if not pd.notnull(df.iloc[index,i]):
                                 pass
                             else:
-                                race.append(race_name)
+                                race.append(local_district(race_name)[0])
+                                district.append(local_district(race_name)[1])
                                 #several pages combined the results into one column, this will split that into two columns and store the data correctly.
                                 if ' ' in str(df.iloc[index,i]):
                                     votes.append(df.iloc[index,i].split(' ')[0])
@@ -79,18 +107,19 @@ while start_page <= end_page:
                                     candidate.append(candidateList[-2])
                                     candidate.append(candidateList[-1])
                                     precinct.append(df.iloc[index,0])
-                                    race.append(race_name)
+                                    race.append(local_district(race_name)[0])
+                                    district.append(local_district(race_name)[1])
                                 else:
                                     votes.append(df.iloc[index,i])
                                     candidate.append(candidateList[i-1])
                                 precinct.append(df.iloc[index,0])
+                                
                 if rows[0] == 'Total' and index != len(df)-1:
                     skip_rows.append(index+1)
                     race_name = df.iloc[index+1,0]
                     new = True
-
     start_page = start_page+1
 
-final = {'precinct':precinct,'race':race,'candidate':candidate,'votes':votes}
+final = {'Precinct':precinct,'Office':race,'District':district,'Candidate':candidate,'Votes':votes}
 new = pd.DataFrame(final)
 new.to_csv('20201103_mi_general_midland_precinct.csv')
