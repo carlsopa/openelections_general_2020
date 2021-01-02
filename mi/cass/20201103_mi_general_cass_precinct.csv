@@ -1,648 +1,627 @@
-,precinct,race,candidate,votes
-0,Calvin Township Precinct 1,Straight Party Ticket,Democratic Party,257
-1,Calvin Township Precinct 1,Straight Party Ticket,Republican Party,372
-2,Calvin Township Precinct 1,Straight Party Ticket,Libertarian Party,3
-3,Calvin Township Precinct 1,Straight Party Ticket,U.S. Taxpayers Party,1
-4,Calvin Township Precinct 1,Straight Party Ticket,Working Class Party,4
-5,Calvin Township Precinct 1,Straight Party Ticket,Green Party,1
-6,Calvin Township Precinct 1,Straight Party Ticket,Natural Law Party,0
-7,City of Dowagiac Ward 1 Precinct 1,Straight Party Ticket,Democratic Party,313
-8,City of Dowagiac Ward 1 Precinct 1,Straight Party Ticket,Republican Party,144
-9,City of Dowagiac Ward 1 Precinct 1,Straight Party Ticket,Libertarian Party,5
-10,City of Dowagiac Ward 1 Precinct 1,Straight Party Ticket,U.S. Taxpayers Party,0
-11,City of Dowagiac Ward 1 Precinct 1,Straight Party Ticket,Working Class Party,9
-12,City of Dowagiac Ward 1 Precinct 1,Straight Party Ticket,Green Party,4
-13,City of Dowagiac Ward 1 Precinct 1,Straight Party Ticket,Natural Law Party,1
-14,City of Dowagiac Ward 2 Precinct 2,Straight Party Ticket,Democratic Party,236
-15,City of Dowagiac Ward 2 Precinct 2,Straight Party Ticket,Republican Party,254
-16,City of Dowagiac Ward 2 Precinct 2,Straight Party Ticket,Libertarian Party,6
-17,City of Dowagiac Ward 2 Precinct 2,Straight Party Ticket,U.S. Taxpayers Party,2
-18,City of Dowagiac Ward 2 Precinct 2,Straight Party Ticket,Working Class Party,4
-19,City of Dowagiac Ward 2 Precinct 2,Straight Party Ticket,Green Party,1
-20,City of Dowagiac Ward 2 Precinct 2,Straight Party Ticket,Natural Law Party,1
-21,City of Dowagiac Ward 3 Precinct 3,Straight Party Ticket,Democratic Party,191
-22,City of Dowagiac Ward 3 Precinct 3,Straight Party Ticket,Republican Party,214
-23,City of Dowagiac Ward 3 Precinct 3,Straight Party Ticket,Libertarian Party,3
-24,City of Dowagiac Ward 3 Precinct 3,Straight Party Ticket,U.S. Taxpayers Party,1
-25,City of Dowagiac Ward 3 Precinct 3,Straight Party Ticket,Working Class Party,2
-26,City of Dowagiac Ward 3 Precinct 3,Straight Party Ticket,Green Party,1
-27,City of Dowagiac Ward 3 Precinct 3,Straight Party Ticket,Natural Law Party,2
-28,Howard Township Precinct 1,Straight Party Ticket,Democratic Party,277
-29,Howard Township Precinct 1,Straight Party Ticket,Republican Party,671
-30,Howard Township Precinct 1,Straight Party Ticket,Libertarian Party,8
-31,Howard Township Precinct 1,Straight Party Ticket,U.S. Taxpayers Party,1
-32,Howard Township Precinct 1,Straight Party Ticket,Working Class Party,9
-33,Howard Township Precinct 1,Straight Party Ticket,Green Party,0
-34,Howard Township Precinct 1,Straight Party Ticket,Natural Law Party,1
-35,Howard Township Precinct 2,Straight Party Ticket,Democratic Party,325
-36,Howard Township Precinct 2,Straight Party Ticket,Republican Party,648
-37,Howard Township Precinct 2,Straight Party Ticket,Libertarian Party,5
-38,Howard Township Precinct 2,Straight Party Ticket,U.S. Taxpayers Party,1
-39,Howard Township Precinct 2,Straight Party Ticket,Working Class Party,3
-40,Howard Township Precinct 2,Straight Party Ticket,Green Party,1
-41,Howard Township Precinct 2,Straight Party Ticket,Natural Law Party,0
-42,Jefferson Township Precinct 1,Straight Party Ticket,Democratic Party,225
-43,Jefferson Township Precinct 1,Straight Party Ticket,Republican Party,535
-44,Jefferson Township Precinct 1,Straight Party Ticket,Libertarian Party,4
-45,Jefferson Township Precinct 1,Straight Party Ticket,U.S. Taxpayers Party,2
-46,Jefferson Township Precinct 1,Straight Party Ticket,Working Class Party,2
-47,Jefferson Township Precinct 1,Straight Party Ticket,Green Party,2
-48,Jefferson Township Precinct 1,Straight Party Ticket,Natural Law Party,1
-49,LaGrange Township Precinct 1,Straight Party Ticket,Democratic Party,419
-50,LaGrange Township Precinct 1,Straight Party Ticket,Republican Party,472
-51,LaGrange Township Precinct 1,Straight Party Ticket,Libertarian Party,10
-52,LaGrange Township Precinct 1,Straight Party Ticket,U.S. Taxpayers Party,2
-53,LaGrange Township Precinct 1,Straight Party Ticket,Working Class Party,5
-54,LaGrange Township Precinct 1,Straight Party Ticket,Green Party,3
-55,LaGrange Township Precinct 1,Straight Party Ticket,Natural Law Party,0
-56,Marcellus Township Precinct 1,Straight Party Ticket,Democratic Party,202
-57,Marcellus Township Precinct 1,Straight Party Ticket,Republican Party,456
-58,Marcellus Township Precinct 1,Straight Party Ticket,Libertarian Party,5
-59,Marcellus Township Precinct 1,Straight Party Ticket,U.S. Taxpayers Party,2
-60,Marcellus Township Precinct 1,Straight Party Ticket,Working Class Party,2
-61,Marcellus Township Precinct 1,Straight Party Ticket,Green Party,3
-62,Marcellus Township Precinct 1,Straight Party Ticket,Natural Law Party,0
-63,Mason Township Precinct 1,Straight Party Ticket,Democratic Party,181
-64,Mason Township Precinct 1,Straight Party Ticket,Republican Party,632
-65,Mason Township Precinct 1,Straight Party Ticket,Libertarian Party,3
-66,Mason Township Precinct 1,Straight Party Ticket,U.S. Taxpayers Party,2
-67,Mason Township Precinct 1,Straight Party Ticket,Working Class Party,2
-68,Mason Township Precinct 1,Straight Party Ticket,Green Party,3
-69,Mason Township Precinct 1,Straight Party Ticket,Natural Law Party,0
-70,Milton Township Precinct 1,Straight Party Ticket,Democratic Party,293
-71,Milton Township Precinct 1,Straight Party Ticket,Republican Party,890
-72,Milton Township Precinct 1,Straight Party Ticket,Libertarian Party,10
-73,Milton Township Precinct 1,Straight Party Ticket,U.S. Taxpayers Party,1
-74,Milton Township Precinct 1,Straight Party Ticket,Working Class Party,2
-75,Milton Township Precinct 1,Straight Party Ticket,Green Party,0
-76,Milton Township Precinct 1,Straight Party Ticket,Natural Law Party,0
-77,Newberg Township Precinct 1,Straight Party Ticket,Democratic Party,120
-78,Newberg Township Precinct 1,Straight Party Ticket,Republican Party,409
-79,Newberg Township Precinct 1,Straight Party Ticket,Libertarian Party,1
-80,Newberg Township Precinct 1,Straight Party Ticket,U.S. Taxpayers Party,1
-81,Newberg Township Precinct 1,Straight Party Ticket,Working Class Party,3
-82,Newberg Township Precinct 1,Straight Party Ticket,Green Party,3
-83,Newberg Township Precinct 1,Straight Party Ticket,Natural Law Party,0
-84,Ontwa Township Precinct 1,Straight Party Ticket,Democratic Party,275
-85,Ontwa Township Precinct 1,Straight Party Ticket,Republican Party,647
-86,Ontwa Township Precinct 1,Straight Party Ticket,Libertarian Party,6
-87,Ontwa Township Precinct 1,Straight Party Ticket,U.S. Taxpayers Party,2
-88,Ontwa Township Precinct 1,Straight Party Ticket,Working Class Party,3
-89,Ontwa Township Precinct 1,Straight Party Ticket,Green Party,0
-90,Ontwa Township Precinct 1,Straight Party Ticket,Natural Law Party,0
-91,Ontwa Township Precinct 2,Straight Party Ticket,Democratic Party,247
-92,Ontwa Township Precinct 2,Straight Party Ticket,Republican Party,696
-93,Ontwa Township Precinct 2,Straight Party Ticket,Libertarian Party,4
-94,Ontwa Township Precinct 2,Straight Party Ticket,U.S. Taxpayers Party,0
-95,Ontwa Township Precinct 2,Straight Party Ticket,Working Class Party,7
-96,Ontwa Township Precinct 2,Straight Party Ticket,Green Party,1
-97,Ontwa Township Precinct 2,Straight Party Ticket,Natural Law Party,0
-98,Penn Township Precinct 1,Straight Party Ticket,Democratic Party,199
-99,Penn Township Precinct 1,Straight Party Ticket,Republican Party,386
-100,Penn Township Precinct 1,Straight Party Ticket,Libertarian Party,3
-101,Penn Township Precinct 1,Straight Party Ticket,U.S. Taxpayers Party,2
-102,Penn Township Precinct 1,Straight Party Ticket,Working Class Party,3
-103,Penn Township Precinct 1,Straight Party Ticket,Green Party,2
-104,Penn Township Precinct 1,Straight Party Ticket,Natural Law Party,1
-105,Pokagon Township Precinct 1,Straight Party Ticket,Democratic Party,237
-106,Pokagon Township Precinct 1,Straight Party Ticket,Republican Party,489
-107,Pokagon Township Precinct 1,Straight Party Ticket,Libertarian Party,6
-108,Pokagon Township Precinct 1,Straight Party Ticket,U.S. Taxpayers Party,1
-109,Pokagon Township Precinct 1,Straight Party Ticket,Working Class Party,7
-110,Pokagon Township Precinct 1,Straight Party Ticket,Green Party,0
-111,Pokagon Township Precinct 1,Straight Party Ticket,Natural Law Party,0
-112,Porter Township Precinct 1,Straight Party Ticket,Democratic Party,189
-113,Porter Township Precinct 1,Straight Party Ticket,Republican Party,633
-114,Porter Township Precinct 1,Straight Party Ticket,Libertarian Party,7
-115,Porter Township Precinct 1,Straight Party Ticket,U.S. Taxpayers Party,1
-116,Porter Township Precinct 1,Straight Party Ticket,Working Class Party,4
-117,Porter Township Precinct 1,Straight Party Ticket,Green Party,1
-118,Porter Township Precinct 1,Straight Party Ticket,Natural Law Party,0
-119,Porter Township Precinct 2,Straight Party Ticket,Democratic Party,160
-120,Porter Township Precinct 2,Straight Party Ticket,Republican Party,498
-121,Porter Township Precinct 2,Straight Party Ticket,Libertarian Party,3
-122,Porter Township Precinct 2,Straight Party Ticket,U.S. Taxpayers Party,0
-123,Porter Township Precinct 2,Straight Party Ticket,Working Class Party,2
-124,Porter Township Precinct 2,Straight Party Ticket,Green Party,0
-125,Porter Township Precinct 2,Straight Party Ticket,Natural Law Party,1
-126,Silver Creek Township Precinct 1,Straight Party Ticket,Democratic Party,240
-127,Silver Creek Township Precinct 1,Straight Party Ticket,Republican Party,715
-128,Silver Creek Township Precinct 1,Straight Party Ticket,Libertarian Party,7
-129,Silver Creek Township Precinct 1,Straight Party Ticket,U.S. Taxpayers Party,6
-130,Silver Creek Township Precinct 1,Straight Party Ticket,Working Class Party,3
-131,Silver Creek Township Precinct 1,Straight Party Ticket,Green Party,1
-132,Silver Creek Township Precinct 1,Straight Party Ticket,Natural Law Party,0
-133,Volinia Township Precinct 1,Straight Party Ticket,Democratic Party,77
-134,Volinia Township Precinct 1,Straight Party Ticket,Republican Party,241
-135,Volinia Township Precinct 1,Straight Party Ticket,Libertarian Party,3
-136,Volinia Township Precinct 1,Straight Party Ticket,U.S. Taxpayers Party,1
-137,Volinia Township Precinct 1,Straight Party Ticket,Working Class Party,3
-138,Volinia Township Precinct 1,Straight Party Ticket,Green Party,0
-139,Volinia Township Precinct 1,Straight Party Ticket,Natural Law Party,0
-140,Wayne Township Precinct 1,Straight Party Ticket,Democratic Party,227
-141,Wayne Township Precinct 1,Straight Party Ticket,Republican Party,558
-142,Wayne Township Precinct 1,Straight Party Ticket,Libertarian Party,1
-143,Wayne Township Precinct 1,Straight Party Ticket,U.S. Taxpayers Party,2
-144,Wayne Township Precinct 1,Straight Party Ticket,Working Class Party,7
-145,Wayne Township Precinct 1,Straight Party Ticket,Green Party,4
-146,Wayne Township Precinct 1,Straight Party Ticket,Natural Law Party,0
-147,Total,Straight Party Ticket,Democratic Party,"4,890"
-148,Total,Straight Party Ticket,Republican Party,"10,560"
-149,Total,Straight Party Ticket,Libertarian Party,103
-150,Total,Straight Party Ticket,U.S. Taxpayers Party,31
-151,Total,Straight Party Ticket,Working Class Party,86
-152,Total,Straight Party Ticket,Green Party,31
-153,Total,Straight Party Ticket,Natural Law Party,8
-154,President of the United States,Straight Party Ticket,Democratic Party,
-155,President of the United States,Straight Party Ticket,Republican Party,
-156,President of the United States,Straight Party Ticket,Libertarian Party,
-157,President of the United States,Straight Party Ticket,U.S. Taxpayers Party,
-158,President of the United States,Straight Party Ticket,Working Class Party,
-159,President of the United States,Straight Party Ticket,Green Party,
-160,President of the United States,Straight Party Ticket,Natural Law Party,
-161,Precinct,Straight Party Ticket,Democratic Party,Joseph R. Biden/Kamala D.
-162,Precinct,Straight Party Ticket,Republican Party,Donald J. Trump/Michael R.
-163,Precinct,Straight Party Ticket,Libertarian Party,Jo Jorgensen/Jeremy
-164,Precinct,Straight Party Ticket,U.S. Taxpayers Party,Don Blankenship/William
-165,Precinct,Straight Party Ticket,Working Class Party,Howie Hawkins/Angela
-166,Precinct,Straight Party Ticket,Green Party,Rocky De La Fuente/Darcy
-167,Precinct,Straight Party Ticket,Natural Law Party,Total write-in
-168,,Straight Party Ticket,Democratic Party,Harris
-169,,Straight Party Ticket,Republican Party,Pence
-170,,Straight Party Ticket,Libertarian Party,Cohen
-171,,Straight Party Ticket,U.S. Taxpayers Party,Mohr
-172,,Straight Party Ticket,Working Class Party,Walker
-173,,Straight Party Ticket,Green Party,Richardson
-174,,Straight Party Ticket,Natural Law Party,
-175,Calvin Township Precinct 1,Straight Party Ticket,Democratic Party,426
-176,Calvin Township Precinct 1,Straight Party Ticket,Republican Party,572
-177,Calvin Township Precinct 1,Straight Party Ticket,Libertarian Party,7
-178,Calvin Township Precinct 1,Straight Party Ticket,U.S. Taxpayers Party,3
-179,Calvin Township Precinct 1,Straight Party Ticket,Working Class Party,0
-180,Calvin Township Precinct 1,Straight Party Ticket,Green Party,0
-181,Calvin Township Precinct 1,Straight Party Ticket,Natural Law Party,1
-182,City of Dowagiac Ward 1 Precinct 1,Straight Party Ticket,Democratic Party,420
-183,City of Dowagiac Ward 1 Precinct 1,Straight Party Ticket,Republican Party,254
-184,City of Dowagiac Ward 1 Precinct 1,Straight Party Ticket,Libertarian Party,7
-185,City of Dowagiac Ward 1 Precinct 1,Straight Party Ticket,U.S. Taxpayers Party,2
-186,City of Dowagiac Ward 1 Precinct 1,Straight Party Ticket,Working Class Party,3
-187,City of Dowagiac Ward 1 Precinct 1,Straight Party Ticket,Green Party,3
-188,City of Dowagiac Ward 1 Precinct 1,Straight Party Ticket,Natural Law Party,2
-189,City of Dowagiac Ward 2 Precinct 2,Straight Party Ticket,Joseph R. Biden/Kamala D. Harris,396
-190,City of Dowagiac Ward 2 Precinct 2,Straight Party Ticket,Donald J. Trump/Michael R. Pence,390
-191,City of Dowagiac Ward 2 Precinct 2,Straight Party Ticket,Jo Jorgensen/Jeremy Cohen,18
-192,City of Dowagiac Ward 2 Precinct 2,Straight Party Ticket,Don Blankenship/William Mohr,0
-193,City of Dowagiac Ward 2 Precinct 2,Straight Party Ticket,Howie Hawkins/Angela Walker,1
-194,City of Dowagiac Ward 2 Precinct 2,Straight Party Ticket,Rocky De La Fuente/Darcy Richardson,0
-195,City of Dowagiac Ward 2 Precinct 2,Straight Party Ticket,Total write-in,1
-196,City of Dowagiac Ward 3 Precinct 3,Straight Party Ticket,Joseph R. Biden/Kamala D. Harris,292
-197,City of Dowagiac Ward 3 Precinct 3,Straight Party Ticket,Donald J. Trump/Michael R. Pence,344
-198,City of Dowagiac Ward 3 Precinct 3,Straight Party Ticket,Jo Jorgensen/Jeremy Cohen,13
-199,City of Dowagiac Ward 3 Precinct 3,Straight Party Ticket,Don Blankenship/William Mohr,2
-200,City of Dowagiac Ward 3 Precinct 3,Straight Party Ticket,Howie Hawkins/Angela Walker,1
-201,City of Dowagiac Ward 3 Precinct 3,Straight Party Ticket,Rocky De La Fuente/Darcy Richardson,0
-202,City of Dowagiac Ward 3 Precinct 3,Straight Party Ticket,Total write-in,0
-203,Howard Township Precinct 1,Straight Party Ticket,Joseph R. Biden/Kamala D. Harris,537
-204,Howard Township Precinct 1,Straight Party Ticket,Donald J. Trump/Michael R. Pence,"1,086"
-205,Howard Township Precinct 1,Straight Party Ticket,Jo Jorgensen/Jeremy Cohen,18
-206,Howard Township Precinct 1,Straight Party Ticket,Don Blankenship/William Mohr,2
-207,Howard Township Precinct 1,Straight Party Ticket,Howie Hawkins/Angela Walker,0
-208,Howard Township Precinct 1,Straight Party Ticket,Rocky De La Fuente/Darcy Richardson,0
-209,Howard Township Precinct 1,Straight Party Ticket,Total write-in,0
-210,Howard Township Precinct 2,Straight Party Ticket,Joseph R. Biden/Kamala D. Harris,556
-211,Howard Township Precinct 2,Straight Party Ticket,Donald J. Trump/Michael R. Pence,"1,085"
-212,Howard Township Precinct 2,Straight Party Ticket,Jo Jorgensen/Jeremy Cohen,20
-213,Howard Township Precinct 2,Straight Party Ticket,Don Blankenship/William Mohr,1
-214,Howard Township Precinct 2,Straight Party Ticket,Howie Hawkins/Angela Walker,2
-215,Howard Township Precinct 2,Straight Party Ticket,Rocky De La Fuente/Darcy Richardson,1
-216,Howard Township Precinct 2,Straight Party Ticket,Total write-in,1
-217,Jefferson Township Precinct 1,Straight Party Ticket,Joseph R. Biden/Kamala D. Harris,450
-218,Jefferson Township Precinct 1,Straight Party Ticket,Donald J. Trump/Michael R. Pence,927
-219,Jefferson Township Precinct 1,Straight Party Ticket,Jo Jorgensen/Jeremy Cohen,20
-220,Jefferson Township Precinct 1,Straight Party Ticket,Don Blankenship/William Mohr,2
-221,Jefferson Township Precinct 1,Straight Party Ticket,Howie Hawkins/Angela Walker,2
-222,Jefferson Township Precinct 1,Straight Party Ticket,Rocky De La Fuente/Darcy Richardson,0
-223,Jefferson Township Precinct 1,Straight Party Ticket,Total write-in,2
-224,LaGrange Township Precinct 1,Straight Party Ticket,Joseph R. Biden/Kamala D. Harris,752
-225,LaGrange Township Precinct 1,Straight Party Ticket,Donald J. Trump/Michael R. Pence,786
-226,LaGrange Township Precinct 1,Straight Party Ticket,Jo Jorgensen/Jeremy Cohen,21
-227,LaGrange Township Precinct 1,Straight Party Ticket,Don Blankenship/William Mohr,3
-228,LaGrange Township Precinct 1,Straight Party Ticket,Howie Hawkins/Angela Walker,5
-229,LaGrange Township Precinct 1,Straight Party Ticket,Rocky De La Fuente/Darcy Richardson,2
-230,LaGrange Township Precinct 1,Straight Party Ticket,Total write-in,3
-231,Marcellus Township Precinct 1,Straight Party Ticket,Joseph R. Biden/Kamala D. Harris,427
-232,Marcellus Township Precinct 1,Straight Party Ticket,Donald J. Trump/Michael R. Pence,761
-233,Marcellus Township Precinct 1,Straight Party Ticket,Jo Jorgensen/Jeremy Cohen,25
-234,Marcellus Township Precinct 1,Straight Party Ticket,Don Blankenship/William Mohr,2
-235,Marcellus Township Precinct 1,Straight Party Ticket,Howie Hawkins/Angela Walker,3
-236,Marcellus Township Precinct 1,Straight Party Ticket,Rocky De La Fuente/Darcy Richardson,1
-237,Marcellus Township Precinct 1,Straight Party Ticket,Total write-in,1
-238,Mason Township Precinct 1,Straight Party Ticket,Joseph R. Biden/Kamala D. Harris,346
-239,Mason Township Precinct 1,Straight Party Ticket,Donald J. Trump/Michael R. Pence,944
-240,Mason Township Precinct 1,Straight Party Ticket,Jo Jorgensen/Jeremy Cohen,15
-241,Mason Township Precinct 1,Straight Party Ticket,Don Blankenship/William Mohr,3
-242,Mason Township Precinct 1,Straight Party Ticket,Howie Hawkins/Angela Walker,1
-243,Mason Township Precinct 1,Straight Party Ticket,Rocky De La Fuente/Darcy Richardson,1
-244,Mason Township Precinct 1,Straight Party Ticket,Total write-in,1
-245,Milton Township Precinct 1,Straight Party Ticket,Joseph R. Biden/Kamala D. Harris,596
-246,Milton Township Precinct 1,Straight Party Ticket,Donald J. Trump/Michael R. Pence,"1,356"
-247,Milton Township Precinct 1,Straight Party Ticket,Jo Jorgensen/Jeremy Cohen,19
-248,Milton Township Precinct 1,Straight Party Ticket,Don Blankenship/William Mohr,3
-249,Milton Township Precinct 1,Straight Party Ticket,Howie Hawkins/Angela Walker,1
-250,Milton Township Precinct 1,Straight Party Ticket,Rocky De La Fuente/Darcy Richardson,0
-251,Milton Township Precinct 1,Straight Party Ticket,Total write-in,4
-252,Newberg Township Precinct 1,Straight Party Ticket,Joseph R. Biden/Kamala D. Harris,228
-253,Newberg Township Precinct 1,Straight Party Ticket,Donald J. Trump/Michael R. Pence,642
-254,Newberg Township Precinct 1,Straight Party Ticket,Jo Jorgensen/Jeremy Cohen,11
-255,Newberg Township Precinct 1,Straight Party Ticket,Don Blankenship/William Mohr,0
-256,Newberg Township Precinct 1,Straight Party Ticket,Howie Hawkins/Angela Walker,2
-257,Newberg Township Precinct 1,Straight Party Ticket,Rocky De La Fuente/Darcy Richardson,0
-258,Newberg Township Precinct 1,Straight Party Ticket,Total write-in,1
-259,Ontwa Township Precinct 1,Straight Party Ticket,Joseph R. Biden/Kamala D. Harris,537
-260,Ontwa Township Precinct 1,Straight Party Ticket,Donald J. Trump/Michael R. Pence,"1,045"
-261,Ontwa Township Precinct 1,Straight Party Ticket,Jo Jorgensen/Jeremy Cohen,22
-262,Ontwa Township Precinct 1,Straight Party Ticket,Don Blankenship/William Mohr,2
-263,Ontwa Township Precinct 1,Straight Party Ticket,Howie Hawkins/Angela Walker,4
-264,Ontwa Township Precinct 1,Straight Party Ticket,Rocky De La Fuente/Darcy Richardson,0
-265,Ontwa Township Precinct 1,Straight Party Ticket,Total write-in,0
-266,Ontwa Township Precinct 2,Straight Party Ticket,Joseph R. Biden/Kamala D. Harris,534
-267,Ontwa Township Precinct 2,Straight Party Ticket,Donald J. Trump/Michael R. Pence,"1,137"
-268,Ontwa Township Precinct 2,Straight Party Ticket,Jo Jorgensen/Jeremy Cohen,15
-269,Ontwa Township Precinct 2,Straight Party Ticket,Don Blankenship/William Mohr,3
-270,Ontwa Township Precinct 2,Straight Party Ticket,Howie Hawkins/Angela Walker,4
-271,Ontwa Township Precinct 2,Straight Party Ticket,Rocky De La Fuente/Darcy Richardson,2
-272,Ontwa Township Precinct 2,Straight Party Ticket,Total write-in,3
-273,Penn Township Precinct 1,Straight Party Ticket,Joseph R. Biden/Kamala D. Harris,395
-274,Penn Township Precinct 1,Straight Party Ticket,Donald J. Trump/Michael R. Pence,613
-275,Penn Township Precinct 1,Straight Party Ticket,Jo Jorgensen/Jeremy Cohen,3
-276,Penn Township Precinct 1,Straight Party Ticket,Don Blankenship/William Mohr,2
-277,Penn Township Precinct 1,Straight Party Ticket,Howie Hawkins/Angela Walker,3
-278,Penn Township Precinct 1,Straight Party Ticket,Rocky De La Fuente/Darcy Richardson,0
-279,Penn Township Precinct 1,Straight Party Ticket,Total write-in,3
-280,Pokagon Township Precinct 1,Straight Party Ticket,Joseph R. Biden/Kamala D. Harris,421
-281,Pokagon Township Precinct 1,Straight Party Ticket,Donald J. Trump/Michael R. Pence,751
-282,Pokagon Township Precinct 1,Straight Party Ticket,Jo Jorgensen/Jeremy Cohen,6
-283,Pokagon Township Precinct 1,Straight Party Ticket,Don Blankenship/William Mohr,2
-284,Pokagon Township Precinct 1,Straight Party Ticket,Howie Hawkins/Angela Walker,2
-285,Pokagon Township Precinct 1,Straight Party Ticket,Rocky De La Fuente/Darcy Richardson,1
-286,Pokagon Township Precinct 1,Straight Party Ticket,Total write-in,0
-287,Porter Township Precinct 1,Straight Party Ticket,Joseph R. Biden/Kamala D. Harris,355
-288,Porter Township Precinct 1,Straight Party Ticket,Donald J. Trump/Michael R. Pence,877
-289,Porter Township Precinct 1,Straight Party Ticket,Jo Jorgensen/Jeremy Cohen,15
-290,Porter Township Precinct 1,Straight Party Ticket,Don Blankenship/William Mohr,0
-291,Porter Township Precinct 1,Straight Party Ticket,Howie Hawkins/Angela Walker,1
-292,Porter Township Precinct 1,Straight Party Ticket,Rocky De La Fuente/Darcy Richardson,0
-293,Porter Township Precinct 1,Straight Party Ticket,Total write-in,1
-294,Porter Township Precinct 2,Straight Party Ticket,Joseph R. Biden/Kamala D. Harris,297
-295,Porter Township Precinct 2,Straight Party Ticket,Donald J. Trump/Michael R. Pence,701
-296,Porter Township Precinct 2,Straight Party Ticket,Jo Jorgensen/Jeremy Cohen,6
-297,Porter Township Precinct 2,Straight Party Ticket,Don Blankenship/William Mohr,1
-298,Porter Township Precinct 2,Straight Party Ticket,Howie Hawkins/Angela Walker,2
-299,Porter Township Precinct 2,Straight Party Ticket,Rocky De La Fuente/Darcy Richardson,0
-300,Porter Township Precinct 2,Straight Party Ticket,Total write-in,1
-301,Silver Creek Township Precinct 1,Straight Party Ticket,Joseph R. Biden/Kamala D. Harris,565
-302,Silver Creek Township Precinct 1,Straight Party Ticket,Donald J. Trump/Michael R. Pence,"1,129"
-303,Silver Creek Township Precinct 1,Straight Party Ticket,Jo Jorgensen/Jeremy Cohen,10
-304,Silver Creek Township Precinct 1,Straight Party Ticket,Don Blankenship/William Mohr,5
-305,Silver Creek Township Precinct 1,Straight Party Ticket,Howie Hawkins/Angela Walker,4
-306,Silver Creek Township Precinct 1,Straight Party Ticket,Rocky De La Fuente/Darcy Richardson,0
-307,Silver Creek Township Precinct 1,Straight Party Ticket,Total write-in,2
-308,Volinia Township Precinct 1,Straight Party Ticket,Joseph R. Biden/Kamala D. Harris,194
-309,Volinia Township Precinct 1,Straight Party Ticket,Donald J. Trump/Michael R. Pence,455
-310,Volinia Township Precinct 1,Straight Party Ticket,Jo Jorgensen/Jeremy Cohen,2
-311,Volinia Township Precinct 1,Straight Party Ticket,Don Blankenship/William Mohr,1
-312,Volinia Township Precinct 1,Straight Party Ticket,Howie Hawkins/Angela Walker,2
-313,Volinia Township Precinct 1,Straight Party Ticket,Rocky De La Fuente/Darcy Richardson,0
-314,Volinia Township Precinct 1,Straight Party Ticket,Total write-in,2
-315,Wayne Township Precinct 1,Straight Party Ticket,Joseph R. Biden/Kamala D. Harris,406
-316,Wayne Township Precinct 1,Straight Party Ticket,Donald J. Trump/Michael R. Pence,844
-317,Wayne Township Precinct 1,Straight Party Ticket,Jo Jorgensen/Jeremy Cohen,13
-318,Wayne Township Precinct 1,Straight Party Ticket,Don Blankenship/William Mohr,1
-319,Wayne Township Precinct 1,Straight Party Ticket,Howie Hawkins/Angela Walker,2
-320,Wayne Township Precinct 1,Straight Party Ticket,Rocky De La Fuente/Darcy Richardson,2
-321,Wayne Township Precinct 1,Straight Party Ticket,Total write-in,0
-322,Total,Straight Party Ticket,Joseph R. Biden/Kamala D. Harris,"9,130"
-323,Total,Straight Party Ticket,Donald J. Trump/Michael R. Pence,"16,699"
-324,Total,Straight Party Ticket,Jo Jorgensen/Jeremy Cohen,286
-325,Total,Straight Party Ticket,Don Blankenship/William Mohr,40
-326,Total,Straight Party Ticket,Howie Hawkins/Angela Walker,45
-327,Total,Straight Party Ticket,Rocky De La Fuente/Darcy Richardson,13
-328,Total,Straight Party Ticket,Total write-in,29
-329,Calvin Township Precinct 1,United States Senator,Gary Peters,382
-330,Calvin Township Precinct 1,United States Senator,John James,596
-331,Calvin Township Precinct 1,United States Senator,Valerie L. Willis,12
-332,Calvin Township Precinct 1,United States Senator,Marcia Squier,6
-333,Calvin Township Precinct 1,United States Senator,Doug Dern,1
-334,Calvin Township Precinct 1,United States Senator,Total write-in,1
-335,City of Dowagiac Ward 1 Precinct 1,United States Senator,Gary Peters,399
-336,City of Dowagiac Ward 1 Precinct 1,United States Senator,John James,246
-337,City of Dowagiac Ward 1 Precinct 1,United States Senator,Valerie L. Willis,12
-338,City of Dowagiac Ward 1 Precinct 1,United States Senator,Marcia Squier,10
-339,City of Dowagiac Ward 1 Precinct 1,United States Senator,Doug Dern,3
-340,City of Dowagiac Ward 1 Precinct 1,United States Senator,Total write-in,2
-341,City of Dowagiac Ward 2 Precinct 2,United States Senator,Gary Peters,378
-342,City of Dowagiac Ward 2 Precinct 2,United States Senator,John James,406
-343,City of Dowagiac Ward 2 Precinct 2,United States Senator,Valerie L. Willis,6
-344,City of Dowagiac Ward 2 Precinct 2,United States Senator,Marcia Squier,4
-345,City of Dowagiac Ward 2 Precinct 2,United States Senator,Doug Dern,2
-346,City of Dowagiac Ward 2 Precinct 2,United States Senator,Total write-in,1
-347,City of Dowagiac Ward 3 Precinct 3,United States Senator,Gary Peters,284
-348,City of Dowagiac Ward 3 Precinct 3,United States Senator,John James,350
-349,City of Dowagiac Ward 3 Precinct 3,United States Senator,Valerie L. Willis,5
-350,City of Dowagiac Ward 3 Precinct 3,United States Senator,Marcia Squier,3
-351,City of Dowagiac Ward 3 Precinct 3,United States Senator,Doug Dern,2
-352,City of Dowagiac Ward 3 Precinct 3,United States Senator,Total write-in,2
-353,Howard Township Precinct 1,United States Senator,Gary Peters,491
-354,Howard Township Precinct 1,United States Senator,John James,"1,086"
-355,Howard Township Precinct 1,United States Senator,Valerie L. Willis,13
-356,Howard Township Precinct 1,United States Senator,Marcia Squier,5
-357,Howard Township Precinct 1,United States Senator,Doug Dern,4
-358,Howard Township Precinct 1,United States Senator,Total write-in,2
-359,Howard Township Precinct 2,United States Senator,Gary Peters,548
-360,Howard Township Precinct 2,United States Senator,John James,"1,071"
-361,Howard Township Precinct 2,United States Senator,Valerie L. Willis,14
-362,Howard Township Precinct 2,United States Senator,Marcia Squier,5
-363,Howard Township Precinct 2,United States Senator,Doug Dern,5
-364,Howard Township Precinct 2,United States Senator,Total write-in,3
-365,Jefferson Township Precinct 1,United States Senator,Gary Peters,428
-366,Jefferson Township Precinct 1,United States Senator,John James,927
-367,Jefferson Township Precinct 1,United States Senator,Valerie L. Willis,16
-368,Jefferson Township Precinct 1,United States Senator,Marcia Squier,9
-369,Jefferson Township Precinct 1,United States Senator,Doug Dern,5
-370,Jefferson Township Precinct 1,United States Senator,Total write-in,3
-371,LaGrange Township Precinct 1,United States Senator,Gary Peters,711
-372,LaGrange Township Precinct 1,United States Senator,John James,794
-373,LaGrange Township Precinct 1,United States Senator,Valerie L. Willis,16
-374,LaGrange Township Precinct 1,United States Senator,Marcia Squier,15
-375,LaGrange Township Precinct 1,United States Senator,Doug Dern,5
-376,LaGrange Township Precinct 1,United States Senator,Total write-in,1
-377,Marcellus Township Precinct 1,United States Senator,Gary Peters,407
-378,Marcellus Township Precinct 1,United States Senator,John James,749
-379,Marcellus Township Precinct 1,United States Senator,Valerie L. Willis,25
-380,Marcellus Township Precinct 1,United States Senator,Marcia Squier,15
-381,Marcellus Township Precinct 1,United States Senator,Doug Dern,5
-382,Marcellus Township Precinct 1,United States Senator,Total write-in,3
-383,Mason Township Precinct 1,United States Senator,Gary Peters,327
-384,Mason Township Precinct 1,United States Senator,John James,945
-385,Mason Township Precinct 1,United States Senator,Valerie L. Willis,14
-386,Mason Township Precinct 1,United States Senator,Marcia Squier,9
-387,Mason Township Precinct 1,United States Senator,Doug Dern,2
-388,Mason Township Precinct 1,United States Senator,Total write-in,1
-389,Milton Township Precinct 1,United States Senator,Gary Peters,548
-390,Milton Township Precinct 1,United States Senator,John James,"1,379"
-391,Milton Township Precinct 1,United States Senator,Valerie L. Willis,14
-392,Milton Township Precinct 1,United States Senator,Marcia Squier,12
-393,Milton Township Precinct 1,United States Senator,Doug Dern,2
-394,Milton Township Precinct 1,United States Senator,Total write-in,1
-395,Newberg Township Precinct 1,United States Senator,Gary Peters,226
-396,Newberg Township Precinct 1,United States Senator,John James,631
-397,Newberg Township Precinct 1,United States Senator,Valerie L. Willis,12
-398,Newberg Township Precinct 1,United States Senator,Marcia Squier,2
-399,Newberg Township Precinct 1,United States Senator,Doug Dern,5
-400,Newberg Township Precinct 1,United States Senator,Total write-in,0
-401,Ontwa Township Precinct 1,United States Senator,Gary Peters,493
-402,Ontwa Township Precinct 1,United States Senator,John James,"1,067"
-403,Ontwa Township Precinct 1,United States Senator,Valerie L. Willis,11
-404,Ontwa Township Precinct 1,United States Senator,Marcia Squier,13
-405,Ontwa Township Precinct 1,United States Senator,Doug Dern,2
-406,Ontwa Township Precinct 1,United States Senator,Total write-in,0
-407,Ontwa Township Precinct 2,United States Senator,Gary Peters,498
-408,Ontwa Township Precinct 2,United States Senator,John James,"1,146"
-409,Ontwa Township Precinct 2,United States Senator,Valerie L. Willis,10
-410,Ontwa Township Precinct 2,United States Senator,Marcia Squier,6
-411,Ontwa Township Precinct 2,United States Senator,Doug Dern,4
-412,Ontwa Township Precinct 2,United States Senator,Total write-in,1
-413,Penn Township Precinct 1,United States Senator,Gary Peters,367
-414,Penn Township Precinct 1,United States Senator,John James,630
-415,Penn Township Precinct 1,United States Senator,Valerie L. Willis,8
-416,Penn Township Precinct 1,United States Senator,Marcia Squier,6
-417,Penn Township Precinct 1,United States Senator,Doug Dern,0
-418,Penn Township Precinct 1,United States Senator,Total write-in,0
-419,Pokagon Township Precinct 1,United States Senator,Gary Peters,394
-420,Pokagon Township Precinct 1,United States Senator,John James,756
-421,Pokagon Township Precinct 1,United States Senator,Valerie L. Willis,9
-422,Pokagon Township Precinct 1,United States Senator,Marcia Squier,12
-423,Pokagon Township Precinct 1,United States Senator,Doug Dern,2
-424,Pokagon Township Precinct 1,United States Senator,Total write-in,0
-425,Porter Township Precinct 1,United States Senator,Gary Peters,327
-426,Porter Township Precinct 1,United States Senator,John James,887
-427,Porter Township Precinct 1,United States Senator,Valerie L. Willis,4
-428,Porter Township Precinct 1,United States Senator,Marcia Squier,9
-429,Porter Township Precinct 1,United States Senator,Doug Dern,2
-430,Porter Township Precinct 1,United States Senator,Total write-in,0
-431,Porter Township Precinct 2,United States Senator,Gary Peters,273
-432,Porter Township Precinct 2,United States Senator,John James,710
-433,Porter Township Precinct 2,United States Senator,Valerie L. Willis,8
-434,Porter Township Precinct 2,United States Senator,Marcia Squier,4
-435,Porter Township Precinct 2,United States Senator,Doug Dern,1
-436,Porter Township Precinct 2,United States Senator,Total write-in,0
-437,Silver Creek Township Precinct 1,United States Senator,Gary Peters,509
-438,Silver Creek Township Precinct 1,United States Senator,John James,"1,150"
-439,Silver Creek Township Precinct 1,United States Senator,Valerie L. Willis,17
-440,Silver Creek Township Precinct 1,United States Senator,Marcia Squier,4
-441,Silver Creek Township Precinct 1,United States Senator,Doug Dern,4
-442,Silver Creek Township Precinct 1,United States Senator,Total write-in,2
-443,Volinia Township Precinct 1,United States Senator,Gary Peters,183
-444,Volinia Township Precinct 1,United States Senator,John James,455
-445,Volinia Township Precinct 1,United States Senator,Valerie L. Willis,8
-446,Volinia Township Precinct 1,United States Senator,Marcia Squier,3
-447,Volinia Township Precinct 1,United States Senator,Doug Dern,0
-448,Volinia Township Precinct 1,United States Senator,Total write-in,2
-449,Wayne Township Precinct 1,United States Senator,Gary Peters,392
-450,Wayne Township Precinct 1,United States Senator,John James,833
-451,Wayne Township Precinct 1,United States Senator,Valerie L. Willis,19
-452,Wayne Township Precinct 1,United States Senator,Marcia Squier,9
-453,Wayne Township Precinct 1,United States Senator,Doug Dern,2
-454,Wayne Township Precinct 1,United States Senator,Total write-in,4
-455,Total,United States Senator,Gary Peters,"8,565"
-456,Total,United States Senator,John James,"16,814"
-457,Total,United States Senator,Valerie L. Willis,253
-458,Total,United States Senator,Marcia Squier,161
-459,Total,United States Senator,Doug Dern,58
-460,Total,United States Senator,Total write-in,29
-461,Calvin Township Precinct 1,Representative in Congress 6th District,Jon Hoadley,356
-462,Calvin Township Precinct 1,Representative in Congress 6th District,Fred Upton,599
-463,Calvin Township Precinct 1,Representative in Congress 6th District,Jeff DePoy,28
-464,Calvin Township Precinct 1,Representative in Congress 6th District,John Lawrence,9
-465,Calvin Township Precinct 1,Representative in Congress 6th District,Total write-in,3
-466,City of Dowagiac Ward 1 Precinct 1,Representative in Congress 6th District,Jon Hoadley,380
-467,City of Dowagiac Ward 1 Precinct 1,Representative in Congress 6th District,Fred Upton,252
-468,City of Dowagiac Ward 1 Precinct 1,Representative in Congress 6th District,Jeff DePoy,25
-469,City of Dowagiac Ward 1 Precinct 1,Representative in Congress 6th District,John Lawrence,13
-470,City of Dowagiac Ward 1 Precinct 1,Representative in Congress 6th District,Total write-in,3
-471,City of Dowagiac Ward 2 Precinct 2,Representative in Congress 6th District,Jon Hoadley,347
-472,City of Dowagiac Ward 2 Precinct 2,Representative in Congress 6th District,Fred Upton,416
-473,City of Dowagiac Ward 2 Precinct 2,Representative in Congress 6th District,Jeff DePoy,29
-474,City of Dowagiac Ward 2 Precinct 2,Representative in Congress 6th District,John Lawrence,7
-475,City of Dowagiac Ward 2 Precinct 2,Representative in Congress 6th District,Total write-in,1
-476,City of Dowagiac Ward 3 Precinct 3,Representative in Congress 6th District,Jon Hoadley,272
-477,City of Dowagiac Ward 3 Precinct 3,Representative in Congress 6th District,Fred Upton,346
-478,City of Dowagiac Ward 3 Precinct 3,Representative in Congress 6th District,Jeff DePoy,16
-479,City of Dowagiac Ward 3 Precinct 3,Representative in Congress 6th District,John Lawrence,5
-480,City of Dowagiac Ward 3 Precinct 3,Representative in Congress 6th District,Total write-in,3
-481,Howard Township Precinct 1,Representative in Congress 6th District,Jon Hoadley,436
-482,Howard Township Precinct 1,Representative in Congress 6th District,Fred Upton,"1,044"
-483,Howard Township Precinct 1,Representative in Congress 6th District,Jeff DePoy,109
-484,Howard Township Precinct 1,Representative in Congress 6th District,John Lawrence,12
-485,Howard Township Precinct 1,Representative in Congress 6th District,Total write-in,3
-486,Howard Township Precinct 2,Representative in Congress 6th District,Jon Hoadley,470
-487,Howard Township Precinct 2,Representative in Congress 6th District,Fred Upton,"1,084"
-488,Howard Township Precinct 2,Representative in Congress 6th District,Jeff DePoy,70
-489,Howard Township Precinct 2,Representative in Congress 6th District,John Lawrence,18
-490,Howard Township Precinct 2,Representative in Congress 6th District,Total write-in,1
-491,Jefferson Township Precinct 1,Representative in Congress 6th District,Jon Hoadley,408
-492,Jefferson Township Precinct 1,Representative in Congress 6th District,Fred Upton,909
-493,Jefferson Township Precinct 1,Representative in Congress 6th District,Jeff DePoy,49
-494,Jefferson Township Precinct 1,Representative in Congress 6th District,John Lawrence,14
-495,Jefferson Township Precinct 1,Representative in Congress 6th District,Total write-in,3
-496,LaGrange Township Precinct 1,Representative in Congress 6th District,Jon Hoadley,653
-497,LaGrange Township Precinct 1,Representative in Congress 6th District,Fred Upton,806
-498,LaGrange Township Precinct 1,Representative in Congress 6th District,Jeff DePoy,54
-499,LaGrange Township Precinct 1,Representative in Congress 6th District,John Lawrence,20
-500,LaGrange Township Precinct 1,Representative in Congress 6th District,Total write-in,5
-501,Marcellus Township Precinct 1,Representative in Congress 6th District,Jon Hoadley,385
-502,Marcellus Township Precinct 1,Representative in Congress 6th District,Fred Upton,728
-503,Marcellus Township Precinct 1,Representative in Congress 6th District,Jeff DePoy,45
-504,Marcellus Township Precinct 1,Representative in Congress 6th District,John Lawrence,32
-505,Marcellus Township Precinct 1,Representative in Congress 6th District,Total write-in,10
-506,Mason Township Precinct 1,Representative in Congress 6th District,Jon Hoadley,306
-507,Mason Township Precinct 1,Representative in Congress 6th District,Fred Upton,928
-508,Mason Township Precinct 1,Representative in Congress 6th District,Jeff DePoy,36
-509,Mason Township Precinct 1,Representative in Congress 6th District,John Lawrence,16
-510,Mason Township Precinct 1,Representative in Congress 6th District,Total write-in,3
-511,Milton Township Precinct 1,Representative in Congress 6th District,Jon Hoadley,489
-512,Milton Township Precinct 1,Representative in Congress 6th District,Fred Upton,"1,379"
-513,Milton Township Precinct 1,Representative in Congress 6th District,Jeff DePoy,75
-514,Milton Township Precinct 1,Representative in Congress 6th District,John Lawrence,12
-515,Milton Township Precinct 1,Representative in Congress 6th District,Total write-in,2
-516,Newberg Township Precinct 1,Representative in Congress 6th District,Jon Hoadley,194
-517,Newberg Township Precinct 1,Representative in Congress 6th District,Fred Upton,614
-518,Newberg Township Precinct 1,Representative in Congress 6th District,Jeff DePoy,25
-519,Newberg Township Precinct 1,Representative in Congress 6th District,John Lawrence,20
-520,Newberg Township Precinct 1,Representative in Congress 6th District,Total write-in,14
-521,Ontwa Township Precinct 1,Representative in Congress 6th District,Jon Hoadley,444
-522,Ontwa Township Precinct 1,Representative in Congress 6th District,Fred Upton,"1,088"
-523,Ontwa Township Precinct 1,Representative in Congress 6th District,Jeff DePoy,32
-524,Ontwa Township Precinct 1,Representative in Congress 6th District,John Lawrence,17
-525,Ontwa Township Precinct 1,Representative in Congress 6th District,Total write-in,1
-526,Ontwa Township Precinct 2,Representative in Congress 6th District,Jon Hoadley,442
-527,Ontwa Township Precinct 2,Representative in Congress 6th District,Fred Upton,"1,175"
-528,Ontwa Township Precinct 2,Representative in Congress 6th District,Jeff DePoy,42
-529,Ontwa Township Precinct 2,Representative in Congress 6th District,John Lawrence,9
-530,Ontwa Township Precinct 2,Representative in Congress 6th District,Total write-in,4
-531,Penn Township Precinct 1,Representative in Congress 6th District,Jon Hoadley,327
-532,Penn Township Precinct 1,Representative in Congress 6th District,Fred Upton,643
-533,Penn Township Precinct 1,Representative in Congress 6th District,Jeff DePoy,18
-534,Penn Township Precinct 1,Representative in Congress 6th District,John Lawrence,8
-535,Penn Township Precinct 1,Representative in Congress 6th District,Total write-in,15
-536,Pokagon Township Precinct 1,Representative in Congress 6th District,Jon Hoadley,380
-537,Pokagon Township Precinct 1,Representative in Congress 6th District,Fred Upton,701
-538,Pokagon Township Precinct 1,Representative in Congress 6th District,Jeff DePoy,74
-539,Pokagon Township Precinct 1,Representative in Congress 6th District,John Lawrence,14
-540,Pokagon Township Precinct 1,Representative in Congress 6th District,Total write-in,2
-541,Porter Township Precinct 1,Representative in Congress 6th District,Jon Hoadley,294
-542,Porter Township Precinct 1,Representative in Congress 6th District,Fred Upton,900
-543,Porter Township Precinct 1,Representative in Congress 6th District,Jeff DePoy,23
-544,Porter Township Precinct 1,Representative in Congress 6th District,John Lawrence,4
-545,Porter Township Precinct 1,Representative in Congress 6th District,Total write-in,6
-546,Porter Township Precinct 2,Representative in Congress 6th District,Jon Hoadley,236
-547,Porter Township Precinct 2,Representative in Congress 6th District,Fred Upton,726
-548,Porter Township Precinct 2,Representative in Congress 6th District,Jeff DePoy,24
-549,Porter Township Precinct 2,Representative in Congress 6th District,John Lawrence,8
-550,Porter Township Precinct 2,Representative in Congress 6th District,Total write-in,2
-551,Silver Creek Township Precinct 1,Representative in Congress 6th District,Jon Hoadley,472
-552,Silver Creek Township Precinct 1,Representative in Congress 6th District,Fred Upton,"1,162"
-553,Silver Creek Township Precinct 1,Representative in Congress 6th District,Jeff DePoy,45
-554,Silver Creek Township Precinct 1,Representative in Congress 6th District,John Lawrence,13
-555,Silver Creek Township Precinct 1,Representative in Congress 6th District,Total write-in,2
-556,Volinia Township Precinct 1,Representative in Congress 6th District,Jon Hoadley,165
-557,Volinia Township Precinct 1,Representative in Congress 6th District,Fred Upton,441
-558,Volinia Township Precinct 1,Representative in Congress 6th District,Jeff DePoy,28
-559,Volinia Township Precinct 1,Representative in Congress 6th District,John Lawrence,8
-560,Volinia Township Precinct 1,Representative in Congress 6th District,Total write-in,2
-561,Wayne Township Precinct 1,Representative in Congress 6th District,Jon Hoadley,355
-562,Wayne Township Precinct 1,Representative in Congress 6th District,Fred Upton,803
-563,Wayne Township Precinct 1,Representative in Congress 6th District,Jeff DePoy,66
-564,Wayne Township Precinct 1,Representative in Congress 6th District,John Lawrence,24
-565,Wayne Township Precinct 1,Representative in Congress 6th District,Total write-in,9
-566,Total,Representative in Congress 6th District,Jon Hoadley,"7,811"
-567,Total,Representative in Congress 6th District,Fred Upton,"16,744"
-568,Total,Representative in Congress 6th District,Jeff DePoy,913
-569,Total,Representative in Congress 6th District,John Lawrence,283
-570,Total,Representative in Congress 6th District,Total write-in,94
-571,Calvin Township Precinct 1,Representative in Congress 6th District,Amy L. East,412
-572,Calvin Township Precinct 1,Representative in Congress 6th District,Steve Carra,558
-573,Calvin Township Precinct 1,Representative in Congress 6th District,Total write-in,15
-574,City of Dowagiac Ward 1 Precinct 1,Representative in Congress 6th District,Amy L. East,419
-575,City of Dowagiac Ward 1 Precinct 1,Representative in Congress 6th District,Steve Carra,236
-576,City of Dowagiac Ward 1 Precinct 1,Representative in Congress 6th District,Total write-in,12
-577,City of Dowagiac Ward 2 Precinct 2,Representative in Congress 6th District,Amy L. East,391
-578,City of Dowagiac Ward 2 Precinct 2,Representative in Congress 6th District,Steve Carra,384
-579,City of Dowagiac Ward 2 Precinct 2,Representative in Congress 6th District,Total write-in,5
-580,City of Dowagiac Ward 3 Precinct 3,Representative in Congress 6th District,Amy L. East,289
-581,City of Dowagiac Ward 3 Precinct 3,Representative in Congress 6th District,Steve Carra,340
-582,City of Dowagiac Ward 3 Precinct 3,Representative in Congress 6th District,Total write-in,4
-583,Jefferson Township Precinct 1,Representative in Congress 6th District,Amy L. East,443
-584,Jefferson Township Precinct 1,Representative in Congress 6th District,Steve Carra,885
-585,Jefferson Township Precinct 1,Representative in Congress 6th District,Total write-in,18
-586,LaGrange Township Precinct 1,Representative in Congress 6th District,Amy L. East,731
-587,LaGrange Township Precinct 1,Representative in Congress 6th District,Steve Carra,776
-588,LaGrange Township Precinct 1,Representative in Congress 6th District,Total write-in,11
-589,Marcellus Township Precinct 1,Representative in Congress 6th District,Amy L. East,431
-590,Marcellus Township Precinct 1,Representative in Congress 6th District,Steve Carra,730
-591,Marcellus Township Precinct 1,Representative in Congress 6th District,Total write-in,18
-592,Mason Township Precinct 1,Representative in Congress 6th District,Amy L. East,348
-593,Mason Township Precinct 1,Representative in Congress 6th District,Steve Carra,904
-594,Mason Township Precinct 1,Representative in Congress 6th District,Total write-in,14
-595,Newberg Township Precinct 1,Representative in Congress 6th District,Amy L. East,231
-596,Newberg Township Precinct 1,Representative in Congress 6th District,Steve Carra,618
-597,Newberg Township Precinct 1,Representative in Congress 6th District,Total write-in,13
-598,Penn Township Precinct 1,Representative in Congress 6th District,Amy L. East,371
-599,Penn Township Precinct 1,Representative in Congress 6th District,Steve Carra,603
-600,Penn Township Precinct 1,Representative in Congress 6th District,Total write-in,22
-601,Pokagon Township Precinct 1,Representative in Congress 6th District,Amy L. East,411
-602,Pokagon Township Precinct 1,Representative in Congress 6th District,Steve Carra,728
-603,Pokagon Township Precinct 1,Representative in Congress 6th District,Total write-in,10
-604,Porter Township Precinct 1,Representative in Congress 6th District,Amy L. East,335
-605,Porter Township Precinct 1,Representative in Congress 6th District,Steve Carra,860
-606,Porter Township Precinct 1,Representative in Congress 6th District,Total write-in,10
-607,Porter Township Precinct 2,Representative in Congress 6th District,Amy L. East,284
-608,Porter Township Precinct 2,Representative in Congress 6th District,Steve Carra,689
-609,Porter Township Precinct 2,Representative in Congress 6th District,Total write-in,11
-610,Volinia Township Precinct 1,Representative in Congress 6th District,Amy L. East,194
-611,Volinia Township Precinct 1,Representative in Congress 6th District,Steve Carra,439
-612,Volinia Township Precinct 1,Representative in Congress 6th District,Total write-in,2
-613,Wayne Township Precinct 1,Representative in Congress 6th District,Amy L. East,415
-614,Wayne Township Precinct 1,Representative in Congress 6th District,Steve Carra,812
-615,Wayne Township Precinct 1,Representative in Congress 6th District,Total write-in,14
-616,Total,Representative in Congress 6th District,Amy L. East,"5,705"
-617,Total,Representative in Congress 6th District,Steve Carra,"9,562"
-618,Total,Representative in Congress 6th District,Total write-in,179
-619,Howard Township Precinct 1,Rep in State Legislature 78th District,Dan VandenHeede,449
-620,Howard Township Precinct 1,Rep in State Legislature 78th District,Brad Paquette,"1,119"
-621,Howard Township Precinct 1,Rep in State Legislature 78th District,Andrew J. Warner,17
-622,Howard Township Precinct 1,Rep in State Legislature 78th District,Total write-in,1
-623,Howard Township Precinct 2,Rep in State Legislature 78th District,Dan VandenHeede,507
-624,Howard Township Precinct 2,Rep in State Legislature 78th District,Brad Paquette,"1,112"
-625,Howard Township Precinct 2,Rep in State Legislature 78th District,Andrew J. Warner,23
-626,Howard Township Precinct 2,Rep in State Legislature 78th District,Total write-in,2
-627,Milton Township Precinct 1,Rep in State Legislature 78th District,Dan VandenHeede,512
-628,Milton Township Precinct 1,Rep in State Legislature 78th District,Brad Paquette,"1,398"
-629,Milton Township Precinct 1,Rep in State Legislature 78th District,Andrew J. Warner,22
-630,Milton Township Precinct 1,Rep in State Legislature 78th District,Total write-in,3
-631,Ontwa Township Precinct 1,Rep in State Legislature 78th District,Dan VandenHeede,496
-632,Ontwa Township Precinct 1,Rep in State Legislature 78th District,Brad Paquette,"1,040"
-633,Ontwa Township Precinct 1,Rep in State Legislature 78th District,Andrew J. Warner,15
-634,Ontwa Township Precinct 1,Rep in State Legislature 78th District,Total write-in,2
-635,Ontwa Township Precinct 2,Rep in State Legislature 78th District,Dan VandenHeede,472
-636,Ontwa Township Precinct 2,Rep in State Legislature 78th District,Brad Paquette,"1,155"
-637,Ontwa Township Precinct 2,Rep in State Legislature 78th District,Andrew J. Warner,17
-638,Ontwa Township Precinct 2,Rep in State Legislature 78th District,Total write-in,3
-639,Silver Creek Township Precinct 1,Rep in State Legislature 78th District,Dan VandenHeede,533
-640,Silver Creek Township Precinct 1,Rep in State Legislature 78th District,Brad Paquette,"1,118"
-641,Silver Creek Township Precinct 1,Rep in State Legislature 78th District,Andrew J. Warner,18
-642,Silver Creek Township Precinct 1,Rep in State Legislature 78th District,Total write-in,3
-643,Total,Rep in State Legislature 78th District,Dan VandenHeede,"2,969"
-644,Total,Rep in State Legislature 78th District,Brad Paquette,"6,942"
-645,Total,Rep in State Legislature 78th District,Andrew J. Warner,112
-646,Total,Rep in State Legislature 78th District,Total write-in,14
+,precinct,office,district,candidate,votes
+0,Calvin Township Precinct 1,Straight Party Ticket,,Democratic Party,257
+1,Calvin Township Precinct 1,Straight Party Ticket,,Republican Party,372
+2,Calvin Township Precinct 1,Straight Party Ticket,,Libertarian Party,3
+3,Calvin Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers Party,1
+4,Calvin Township Precinct 1,Straight Party Ticket,,Working Class Party,4
+5,Calvin Township Precinct 1,Straight Party Ticket,,Green Party,1
+6,Calvin Township Precinct 1,Straight Party Ticket,,Natural Law Party,0
+7,City of Dowagiac Ward 1 Precinct 1,Straight Party Ticket,,Democratic Party,313
+8,City of Dowagiac Ward 1 Precinct 1,Straight Party Ticket,,Republican Party,144
+9,City of Dowagiac Ward 1 Precinct 1,Straight Party Ticket,,Libertarian Party,5
+10,City of Dowagiac Ward 1 Precinct 1,Straight Party Ticket,,U.S. Taxpayers Party,0
+11,City of Dowagiac Ward 1 Precinct 1,Straight Party Ticket,,Working Class Party,9
+12,City of Dowagiac Ward 1 Precinct 1,Straight Party Ticket,,Green Party,4
+13,City of Dowagiac Ward 1 Precinct 1,Straight Party Ticket,,Natural Law Party,1
+14,City of Dowagiac Ward 2 Precinct 2,Straight Party Ticket,,Democratic Party,236
+15,City of Dowagiac Ward 2 Precinct 2,Straight Party Ticket,,Republican Party,254
+16,City of Dowagiac Ward 2 Precinct 2,Straight Party Ticket,,Libertarian Party,6
+17,City of Dowagiac Ward 2 Precinct 2,Straight Party Ticket,,U.S. Taxpayers Party,2
+18,City of Dowagiac Ward 2 Precinct 2,Straight Party Ticket,,Working Class Party,4
+19,City of Dowagiac Ward 2 Precinct 2,Straight Party Ticket,,Green Party,1
+20,City of Dowagiac Ward 2 Precinct 2,Straight Party Ticket,,Natural Law Party,1
+21,City of Dowagiac Ward 3 Precinct 3,Straight Party Ticket,,Democratic Party,191
+22,City of Dowagiac Ward 3 Precinct 3,Straight Party Ticket,,Republican Party,214
+23,City of Dowagiac Ward 3 Precinct 3,Straight Party Ticket,,Libertarian Party,3
+24,City of Dowagiac Ward 3 Precinct 3,Straight Party Ticket,,U.S. Taxpayers Party,1
+25,City of Dowagiac Ward 3 Precinct 3,Straight Party Ticket,,Working Class Party,2
+26,City of Dowagiac Ward 3 Precinct 3,Straight Party Ticket,,Green Party,1
+27,City of Dowagiac Ward 3 Precinct 3,Straight Party Ticket,,Natural Law Party,2
+28,Howard Township Precinct 1,Straight Party Ticket,,Democratic Party,277
+29,Howard Township Precinct 1,Straight Party Ticket,,Republican Party,671
+30,Howard Township Precinct 1,Straight Party Ticket,,Libertarian Party,8
+31,Howard Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers Party,1
+32,Howard Township Precinct 1,Straight Party Ticket,,Working Class Party,9
+33,Howard Township Precinct 1,Straight Party Ticket,,Green Party,0
+34,Howard Township Precinct 1,Straight Party Ticket,,Natural Law Party,1
+35,Howard Township Precinct 2,Straight Party Ticket,,Democratic Party,325
+36,Howard Township Precinct 2,Straight Party Ticket,,Republican Party,648
+37,Howard Township Precinct 2,Straight Party Ticket,,Libertarian Party,5
+38,Howard Township Precinct 2,Straight Party Ticket,,U.S. Taxpayers Party,1
+39,Howard Township Precinct 2,Straight Party Ticket,,Working Class Party,3
+40,Howard Township Precinct 2,Straight Party Ticket,,Green Party,1
+41,Howard Township Precinct 2,Straight Party Ticket,,Natural Law Party,0
+42,Jefferson Township Precinct 1,Straight Party Ticket,,Democratic Party,225
+43,Jefferson Township Precinct 1,Straight Party Ticket,,Republican Party,535
+44,Jefferson Township Precinct 1,Straight Party Ticket,,Libertarian Party,4
+45,Jefferson Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers Party,2
+46,Jefferson Township Precinct 1,Straight Party Ticket,,Working Class Party,2
+47,Jefferson Township Precinct 1,Straight Party Ticket,,Green Party,2
+48,Jefferson Township Precinct 1,Straight Party Ticket,,Natural Law Party,1
+49,LaGrange Township Precinct 1,Straight Party Ticket,,Democratic Party,419
+50,LaGrange Township Precinct 1,Straight Party Ticket,,Republican Party,472
+51,LaGrange Township Precinct 1,Straight Party Ticket,,Libertarian Party,10
+52,LaGrange Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers Party,2
+53,LaGrange Township Precinct 1,Straight Party Ticket,,Working Class Party,5
+54,LaGrange Township Precinct 1,Straight Party Ticket,,Green Party,3
+55,LaGrange Township Precinct 1,Straight Party Ticket,,Natural Law Party,0
+56,Marcellus Township Precinct 1,Straight Party Ticket,,Democratic Party,202
+57,Marcellus Township Precinct 1,Straight Party Ticket,,Republican Party,456
+58,Marcellus Township Precinct 1,Straight Party Ticket,,Libertarian Party,5
+59,Marcellus Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers Party,2
+60,Marcellus Township Precinct 1,Straight Party Ticket,,Working Class Party,2
+61,Marcellus Township Precinct 1,Straight Party Ticket,,Green Party,3
+62,Marcellus Township Precinct 1,Straight Party Ticket,,Natural Law Party,0
+63,Mason Township Precinct 1,Straight Party Ticket,,Democratic Party,181
+64,Mason Township Precinct 1,Straight Party Ticket,,Republican Party,632
+65,Mason Township Precinct 1,Straight Party Ticket,,Libertarian Party,3
+66,Mason Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers Party,2
+67,Mason Township Precinct 1,Straight Party Ticket,,Working Class Party,2
+68,Mason Township Precinct 1,Straight Party Ticket,,Green Party,3
+69,Mason Township Precinct 1,Straight Party Ticket,,Natural Law Party,0
+70,Milton Township Precinct 1,Straight Party Ticket,,Democratic Party,293
+71,Milton Township Precinct 1,Straight Party Ticket,,Republican Party,890
+72,Milton Township Precinct 1,Straight Party Ticket,,Libertarian Party,10
+73,Milton Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers Party,1
+74,Milton Township Precinct 1,Straight Party Ticket,,Working Class Party,2
+75,Milton Township Precinct 1,Straight Party Ticket,,Green Party,0
+76,Milton Township Precinct 1,Straight Party Ticket,,Natural Law Party,0
+77,Newberg Township Precinct 1,Straight Party Ticket,,Democratic Party,120
+78,Newberg Township Precinct 1,Straight Party Ticket,,Republican Party,409
+79,Newberg Township Precinct 1,Straight Party Ticket,,Libertarian Party,1
+80,Newberg Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers Party,1
+81,Newberg Township Precinct 1,Straight Party Ticket,,Working Class Party,3
+82,Newberg Township Precinct 1,Straight Party Ticket,,Green Party,3
+83,Newberg Township Precinct 1,Straight Party Ticket,,Natural Law Party,0
+84,Ontwa Township Precinct 1,Straight Party Ticket,,Democratic Party,275
+85,Ontwa Township Precinct 1,Straight Party Ticket,,Republican Party,647
+86,Ontwa Township Precinct 1,Straight Party Ticket,,Libertarian Party,6
+87,Ontwa Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers Party,2
+88,Ontwa Township Precinct 1,Straight Party Ticket,,Working Class Party,3
+89,Ontwa Township Precinct 1,Straight Party Ticket,,Green Party,0
+90,Ontwa Township Precinct 1,Straight Party Ticket,,Natural Law Party,0
+91,Ontwa Township Precinct 2,Straight Party Ticket,,Democratic Party,247
+92,Ontwa Township Precinct 2,Straight Party Ticket,,Republican Party,696
+93,Ontwa Township Precinct 2,Straight Party Ticket,,Libertarian Party,4
+94,Ontwa Township Precinct 2,Straight Party Ticket,,U.S. Taxpayers Party,0
+95,Ontwa Township Precinct 2,Straight Party Ticket,,Working Class Party,7
+96,Ontwa Township Precinct 2,Straight Party Ticket,,Green Party,1
+97,Ontwa Township Precinct 2,Straight Party Ticket,,Natural Law Party,0
+98,Penn Township Precinct 1,Straight Party Ticket,,Democratic Party,199
+99,Penn Township Precinct 1,Straight Party Ticket,,Republican Party,386
+100,Penn Township Precinct 1,Straight Party Ticket,,Libertarian Party,3
+101,Penn Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers Party,2
+102,Penn Township Precinct 1,Straight Party Ticket,,Working Class Party,3
+103,Penn Township Precinct 1,Straight Party Ticket,,Green Party,2
+104,Penn Township Precinct 1,Straight Party Ticket,,Natural Law Party,1
+105,Pokagon Township Precinct 1,Straight Party Ticket,,Democratic Party,237
+106,Pokagon Township Precinct 1,Straight Party Ticket,,Republican Party,489
+107,Pokagon Township Precinct 1,Straight Party Ticket,,Libertarian Party,6
+108,Pokagon Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers Party,1
+109,Pokagon Township Precinct 1,Straight Party Ticket,,Working Class Party,7
+110,Pokagon Township Precinct 1,Straight Party Ticket,,Green Party,0
+111,Pokagon Township Precinct 1,Straight Party Ticket,,Natural Law Party,0
+112,Porter Township Precinct 1,Straight Party Ticket,,Democratic Party,189
+113,Porter Township Precinct 1,Straight Party Ticket,,Republican Party,633
+114,Porter Township Precinct 1,Straight Party Ticket,,Libertarian Party,7
+115,Porter Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers Party,1
+116,Porter Township Precinct 1,Straight Party Ticket,,Working Class Party,4
+117,Porter Township Precinct 1,Straight Party Ticket,,Green Party,1
+118,Porter Township Precinct 1,Straight Party Ticket,,Natural Law Party,0
+119,Porter Township Precinct 2,Straight Party Ticket,,Democratic Party,160
+120,Porter Township Precinct 2,Straight Party Ticket,,Republican Party,498
+121,Porter Township Precinct 2,Straight Party Ticket,,Libertarian Party,3
+122,Porter Township Precinct 2,Straight Party Ticket,,U.S. Taxpayers Party,0
+123,Porter Township Precinct 2,Straight Party Ticket,,Working Class Party,2
+124,Porter Township Precinct 2,Straight Party Ticket,,Green Party,0
+125,Porter Township Precinct 2,Straight Party Ticket,,Natural Law Party,1
+126,Silver Creek Township Precinct 1,Straight Party Ticket,,Democratic Party,240
+127,Silver Creek Township Precinct 1,Straight Party Ticket,,Republican Party,715
+128,Silver Creek Township Precinct 1,Straight Party Ticket,,Libertarian Party,7
+129,Silver Creek Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers Party,6
+130,Silver Creek Township Precinct 1,Straight Party Ticket,,Working Class Party,3
+131,Silver Creek Township Precinct 1,Straight Party Ticket,,Green Party,1
+132,Silver Creek Township Precinct 1,Straight Party Ticket,,Natural Law Party,0
+133,Volinia Township Precinct 1,Straight Party Ticket,,Democratic Party,77
+134,Volinia Township Precinct 1,Straight Party Ticket,,Republican Party,241
+135,Volinia Township Precinct 1,Straight Party Ticket,,Libertarian Party,3
+136,Volinia Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers Party,1
+137,Volinia Township Precinct 1,Straight Party Ticket,,Working Class Party,3
+138,Volinia Township Precinct 1,Straight Party Ticket,,Green Party,0
+139,Volinia Township Precinct 1,Straight Party Ticket,,Natural Law Party,0
+140,Wayne Township Precinct 1,Straight Party Ticket,,Democratic Party,227
+141,Wayne Township Precinct 1,Straight Party Ticket,,Republican Party,558
+142,Wayne Township Precinct 1,Straight Party Ticket,,Libertarian Party,1
+143,Wayne Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers Party,2
+144,Wayne Township Precinct 1,Straight Party Ticket,,Working Class Party,7
+145,Wayne Township Precinct 1,Straight Party Ticket,,Green Party,4
+146,Wayne Township Precinct 1,Straight Party Ticket,,Natural Law Party,0
+147,Total,Straight Party Ticket,,Democratic Party,"4,890"
+148,Total,Straight Party Ticket,,Republican Party,"10,560"
+149,Total,Straight Party Ticket,,Libertarian Party,103
+150,Total,Straight Party Ticket,,U.S. Taxpayers Party,31
+151,Total,Straight Party Ticket,,Working Class Party,86
+152,Total,Straight Party Ticket,,Green Party,31
+153,Total,Straight Party Ticket,,Natural Law Party,8
+154,Calvin Township Precinct 1,President of the United States,,Joseph R. Biden/Kamala D. Harris,426
+155,Calvin Township Precinct 1,President of the United States,,Donald J. Trump/Michael R. Pence,572
+156,Calvin Township Precinct 1,President of the United States,,Jo Jorgensen/Jeremy Cohen,7
+157,Calvin Township Precinct 1,President of the United States,,Don Blankenship/William Mohr,3
+158,Calvin Township Precinct 1,President of the United States,,Howie Hawkins/Angela Walker,0
+159,Calvin Township Precinct 1,President of the United States,,Rocky De La Fuente/Darcy Richardson,0
+160,Calvin Township Precinct 1,President of the United States,,Total write-in,1
+161,City of Dowagiac Ward 1 Precinct 1,President of the United States,,Joseph R. Biden/Kamala D. Harris,420
+162,City of Dowagiac Ward 1 Precinct 1,President of the United States,,Donald J. Trump/Michael R. Pence,254
+163,City of Dowagiac Ward 1 Precinct 1,President of the United States,,Jo Jorgensen/Jeremy Cohen,7
+164,City of Dowagiac Ward 1 Precinct 1,President of the United States,,Don Blankenship/William Mohr,2
+165,City of Dowagiac Ward 1 Precinct 1,President of the United States,,Howie Hawkins/Angela Walker,3
+166,City of Dowagiac Ward 1 Precinct 1,President of the United States,,Rocky De La Fuente/Darcy Richardson,3
+167,City of Dowagiac Ward 1 Precinct 1,President of the United States,,Total write-in,2
+168,City of Dowagiac Ward 2 Precinct 2,President of the United States,,Joseph R. Biden/Kamala D. Harris,396
+169,City of Dowagiac Ward 2 Precinct 2,President of the United States,,Donald J. Trump/Michael R. Pence,390
+170,City of Dowagiac Ward 2 Precinct 2,President of the United States,,Jo Jorgensen/Jeremy Cohen,18
+171,City of Dowagiac Ward 2 Precinct 2,President of the United States,,Don Blankenship/William Mohr,0
+172,City of Dowagiac Ward 2 Precinct 2,President of the United States,,Howie Hawkins/Angela Walker,1
+173,City of Dowagiac Ward 2 Precinct 2,President of the United States,,Rocky De La Fuente/Darcy Richardson,0
+174,City of Dowagiac Ward 2 Precinct 2,President of the United States,,Total write-in,1
+175,City of Dowagiac Ward 3 Precinct 3,President of the United States,,Joseph R. Biden/Kamala D. Harris,292
+176,City of Dowagiac Ward 3 Precinct 3,President of the United States,,Donald J. Trump/Michael R. Pence,344
+177,City of Dowagiac Ward 3 Precinct 3,President of the United States,,Jo Jorgensen/Jeremy Cohen,13
+178,City of Dowagiac Ward 3 Precinct 3,President of the United States,,Don Blankenship/William Mohr,2
+179,City of Dowagiac Ward 3 Precinct 3,President of the United States,,Howie Hawkins/Angela Walker,1
+180,City of Dowagiac Ward 3 Precinct 3,President of the United States,,Rocky De La Fuente/Darcy Richardson,0
+181,City of Dowagiac Ward 3 Precinct 3,President of the United States,,Total write-in,0
+182,Howard Township Precinct 1,President of the United States,,Joseph R. Biden/Kamala D. Harris,537
+183,Howard Township Precinct 1,President of the United States,,Donald J. Trump/Michael R. Pence,"1,086"
+184,Howard Township Precinct 1,President of the United States,,Jo Jorgensen/Jeremy Cohen,18
+185,Howard Township Precinct 1,President of the United States,,Don Blankenship/William Mohr,2
+186,Howard Township Precinct 1,President of the United States,,Howie Hawkins/Angela Walker,0
+187,Howard Township Precinct 1,President of the United States,,Rocky De La Fuente/Darcy Richardson,0
+188,Howard Township Precinct 1,President of the United States,,Total write-in,0
+189,Howard Township Precinct 2,President of the United States,,Joseph R. Biden/Kamala D. Harris,556
+190,Howard Township Precinct 2,President of the United States,,Donald J. Trump/Michael R. Pence,"1,085"
+191,Howard Township Precinct 2,President of the United States,,Jo Jorgensen/Jeremy Cohen,20
+192,Howard Township Precinct 2,President of the United States,,Don Blankenship/William Mohr,1
+193,Howard Township Precinct 2,President of the United States,,Howie Hawkins/Angela Walker,2
+194,Howard Township Precinct 2,President of the United States,,Rocky De La Fuente/Darcy Richardson,1
+195,Howard Township Precinct 2,President of the United States,,Total write-in,1
+196,Jefferson Township Precinct 1,President of the United States,,Joseph R. Biden/Kamala D. Harris,450
+197,Jefferson Township Precinct 1,President of the United States,,Donald J. Trump/Michael R. Pence,927
+198,Jefferson Township Precinct 1,President of the United States,,Jo Jorgensen/Jeremy Cohen,20
+199,Jefferson Township Precinct 1,President of the United States,,Don Blankenship/William Mohr,2
+200,Jefferson Township Precinct 1,President of the United States,,Howie Hawkins/Angela Walker,2
+201,Jefferson Township Precinct 1,President of the United States,,Rocky De La Fuente/Darcy Richardson,0
+202,Jefferson Township Precinct 1,President of the United States,,Total write-in,2
+203,LaGrange Township Precinct 1,President of the United States,,Joseph R. Biden/Kamala D. Harris,752
+204,LaGrange Township Precinct 1,President of the United States,,Donald J. Trump/Michael R. Pence,786
+205,LaGrange Township Precinct 1,President of the United States,,Jo Jorgensen/Jeremy Cohen,21
+206,LaGrange Township Precinct 1,President of the United States,,Don Blankenship/William Mohr,3
+207,LaGrange Township Precinct 1,President of the United States,,Howie Hawkins/Angela Walker,5
+208,LaGrange Township Precinct 1,President of the United States,,Rocky De La Fuente/Darcy Richardson,2
+209,LaGrange Township Precinct 1,President of the United States,,Total write-in,3
+210,Marcellus Township Precinct 1,President of the United States,,Joseph R. Biden/Kamala D. Harris,427
+211,Marcellus Township Precinct 1,President of the United States,,Donald J. Trump/Michael R. Pence,761
+212,Marcellus Township Precinct 1,President of the United States,,Jo Jorgensen/Jeremy Cohen,25
+213,Marcellus Township Precinct 1,President of the United States,,Don Blankenship/William Mohr,2
+214,Marcellus Township Precinct 1,President of the United States,,Howie Hawkins/Angela Walker,3
+215,Marcellus Township Precinct 1,President of the United States,,Rocky De La Fuente/Darcy Richardson,1
+216,Marcellus Township Precinct 1,President of the United States,,Total write-in,1
+217,Mason Township Precinct 1,President of the United States,,Joseph R. Biden/Kamala D. Harris,346
+218,Mason Township Precinct 1,President of the United States,,Donald J. Trump/Michael R. Pence,944
+219,Mason Township Precinct 1,President of the United States,,Jo Jorgensen/Jeremy Cohen,15
+220,Mason Township Precinct 1,President of the United States,,Don Blankenship/William Mohr,3
+221,Mason Township Precinct 1,President of the United States,,Howie Hawkins/Angela Walker,1
+222,Mason Township Precinct 1,President of the United States,,Rocky De La Fuente/Darcy Richardson,1
+223,Mason Township Precinct 1,President of the United States,,Total write-in,1
+224,Milton Township Precinct 1,President of the United States,,Joseph R. Biden/Kamala D. Harris,596
+225,Milton Township Precinct 1,President of the United States,,Donald J. Trump/Michael R. Pence,"1,356"
+226,Milton Township Precinct 1,President of the United States,,Jo Jorgensen/Jeremy Cohen,19
+227,Milton Township Precinct 1,President of the United States,,Don Blankenship/William Mohr,3
+228,Milton Township Precinct 1,President of the United States,,Howie Hawkins/Angela Walker,1
+229,Milton Township Precinct 1,President of the United States,,Rocky De La Fuente/Darcy Richardson,0
+230,Milton Township Precinct 1,President of the United States,,Total write-in,4
+231,Newberg Township Precinct 1,President of the United States,,Joseph R. Biden/Kamala D. Harris,228
+232,Newberg Township Precinct 1,President of the United States,,Donald J. Trump/Michael R. Pence,642
+233,Newberg Township Precinct 1,President of the United States,,Jo Jorgensen/Jeremy Cohen,11
+234,Newberg Township Precinct 1,President of the United States,,Don Blankenship/William Mohr,0
+235,Newberg Township Precinct 1,President of the United States,,Howie Hawkins/Angela Walker,2
+236,Newberg Township Precinct 1,President of the United States,,Rocky De La Fuente/Darcy Richardson,0
+237,Newberg Township Precinct 1,President of the United States,,Total write-in,1
+238,Ontwa Township Precinct 1,President of the United States,,Joseph R. Biden/Kamala D. Harris,537
+239,Ontwa Township Precinct 1,President of the United States,,Donald J. Trump/Michael R. Pence,"1,045"
+240,Ontwa Township Precinct 1,President of the United States,,Jo Jorgensen/Jeremy Cohen,22
+241,Ontwa Township Precinct 1,President of the United States,,Don Blankenship/William Mohr,2
+242,Ontwa Township Precinct 1,President of the United States,,Howie Hawkins/Angela Walker,4
+243,Ontwa Township Precinct 1,President of the United States,,Rocky De La Fuente/Darcy Richardson,0
+244,Ontwa Township Precinct 1,President of the United States,,Total write-in,0
+245,Ontwa Township Precinct 2,President of the United States,,Joseph R. Biden/Kamala D. Harris,534
+246,Ontwa Township Precinct 2,President of the United States,,Donald J. Trump/Michael R. Pence,"1,137"
+247,Ontwa Township Precinct 2,President of the United States,,Jo Jorgensen/Jeremy Cohen,15
+248,Ontwa Township Precinct 2,President of the United States,,Don Blankenship/William Mohr,3
+249,Ontwa Township Precinct 2,President of the United States,,Howie Hawkins/Angela Walker,4
+250,Ontwa Township Precinct 2,President of the United States,,Rocky De La Fuente/Darcy Richardson,2
+251,Ontwa Township Precinct 2,President of the United States,,Total write-in,3
+252,Penn Township Precinct 1,President of the United States,,Joseph R. Biden/Kamala D. Harris,395
+253,Penn Township Precinct 1,President of the United States,,Donald J. Trump/Michael R. Pence,613
+254,Penn Township Precinct 1,President of the United States,,Jo Jorgensen/Jeremy Cohen,3
+255,Penn Township Precinct 1,President of the United States,,Don Blankenship/William Mohr,2
+256,Penn Township Precinct 1,President of the United States,,Howie Hawkins/Angela Walker,3
+257,Penn Township Precinct 1,President of the United States,,Rocky De La Fuente/Darcy Richardson,0
+258,Penn Township Precinct 1,President of the United States,,Total write-in,3
+259,Pokagon Township Precinct 1,President of the United States,,Joseph R. Biden/Kamala D. Harris,421
+260,Pokagon Township Precinct 1,President of the United States,,Donald J. Trump/Michael R. Pence,751
+261,Pokagon Township Precinct 1,President of the United States,,Jo Jorgensen/Jeremy Cohen,6
+262,Pokagon Township Precinct 1,President of the United States,,Don Blankenship/William Mohr,2
+263,Pokagon Township Precinct 1,President of the United States,,Howie Hawkins/Angela Walker,2
+264,Pokagon Township Precinct 1,President of the United States,,Rocky De La Fuente/Darcy Richardson,1
+265,Pokagon Township Precinct 1,President of the United States,,Total write-in,0
+266,Porter Township Precinct 1,President of the United States,,Joseph R. Biden/Kamala D. Harris,355
+267,Porter Township Precinct 1,President of the United States,,Donald J. Trump/Michael R. Pence,877
+268,Porter Township Precinct 1,President of the United States,,Jo Jorgensen/Jeremy Cohen,15
+269,Porter Township Precinct 1,President of the United States,,Don Blankenship/William Mohr,0
+270,Porter Township Precinct 1,President of the United States,,Howie Hawkins/Angela Walker,1
+271,Porter Township Precinct 1,President of the United States,,Rocky De La Fuente/Darcy Richardson,0
+272,Porter Township Precinct 1,President of the United States,,Total write-in,1
+273,Porter Township Precinct 2,President of the United States,,Joseph R. Biden/Kamala D. Harris,297
+274,Porter Township Precinct 2,President of the United States,,Donald J. Trump/Michael R. Pence,701
+275,Porter Township Precinct 2,President of the United States,,Jo Jorgensen/Jeremy Cohen,6
+276,Porter Township Precinct 2,President of the United States,,Don Blankenship/William Mohr,1
+277,Porter Township Precinct 2,President of the United States,,Howie Hawkins/Angela Walker,2
+278,Porter Township Precinct 2,President of the United States,,Rocky De La Fuente/Darcy Richardson,0
+279,Porter Township Precinct 2,President of the United States,,Total write-in,1
+280,Silver Creek Township Precinct 1,President of the United States,,Joseph R. Biden/Kamala D. Harris,565
+281,Silver Creek Township Precinct 1,President of the United States,,Donald J. Trump/Michael R. Pence,"1,129"
+282,Silver Creek Township Precinct 1,President of the United States,,Jo Jorgensen/Jeremy Cohen,10
+283,Silver Creek Township Precinct 1,President of the United States,,Don Blankenship/William Mohr,5
+284,Silver Creek Township Precinct 1,President of the United States,,Howie Hawkins/Angela Walker,4
+285,Silver Creek Township Precinct 1,President of the United States,,Rocky De La Fuente/Darcy Richardson,0
+286,Silver Creek Township Precinct 1,President of the United States,,Total write-in,2
+287,Volinia Township Precinct 1,President of the United States,,Joseph R. Biden/Kamala D. Harris,194
+288,Volinia Township Precinct 1,President of the United States,,Donald J. Trump/Michael R. Pence,455
+289,Volinia Township Precinct 1,President of the United States,,Jo Jorgensen/Jeremy Cohen,2
+290,Volinia Township Precinct 1,President of the United States,,Don Blankenship/William Mohr,1
+291,Volinia Township Precinct 1,President of the United States,,Howie Hawkins/Angela Walker,2
+292,Volinia Township Precinct 1,President of the United States,,Rocky De La Fuente/Darcy Richardson,0
+293,Volinia Township Precinct 1,President of the United States,,Total write-in,2
+294,Wayne Township Precinct 1,President of the United States,,Joseph R. Biden/Kamala D. Harris,406
+295,Wayne Township Precinct 1,President of the United States,,Donald J. Trump/Michael R. Pence,844
+296,Wayne Township Precinct 1,President of the United States,,Jo Jorgensen/Jeremy Cohen,13
+297,Wayne Township Precinct 1,President of the United States,,Don Blankenship/William Mohr,1
+298,Wayne Township Precinct 1,President of the United States,,Howie Hawkins/Angela Walker,2
+299,Wayne Township Precinct 1,President of the United States,,Rocky De La Fuente/Darcy Richardson,2
+300,Wayne Township Precinct 1,President of the United States,,Total write-in,0
+301,Total,United States Senator,,Joseph R. Biden/Kamala D. Harris,"9,130"
+302,Total,United States Senator,,Donald J. Trump/Michael R. Pence,"16,699"
+303,Total,United States Senator,,Jo Jorgensen/Jeremy Cohen,286
+304,Total,United States Senator,,Don Blankenship/William Mohr,40
+305,Total,United States Senator,,Howie Hawkins/Angela Walker,45
+306,Total,United States Senator,,Rocky De La Fuente/Darcy Richardson,13
+307,Total,United States Senator,,Total write-in,29
+308,Calvin Township Precinct 1,United States Senator,,Gary Peters,382
+309,Calvin Township Precinct 1,United States Senator,,John James,596
+310,Calvin Township Precinct 1,United States Senator,,Valerie L. Willis,12
+311,Calvin Township Precinct 1,United States Senator,,Marcia Squier,6
+312,Calvin Township Precinct 1,United States Senator,,Doug Dern,1
+313,Calvin Township Precinct 1,United States Senator,,Total write-in,1
+314,City of Dowagiac Ward 1 Precinct 1,United States Senator,,Gary Peters,399
+315,City of Dowagiac Ward 1 Precinct 1,United States Senator,,John James,246
+316,City of Dowagiac Ward 1 Precinct 1,United States Senator,,Valerie L. Willis,12
+317,City of Dowagiac Ward 1 Precinct 1,United States Senator,,Marcia Squier,10
+318,City of Dowagiac Ward 1 Precinct 1,United States Senator,,Doug Dern,3
+319,City of Dowagiac Ward 1 Precinct 1,United States Senator,,Total write-in,2
+320,City of Dowagiac Ward 2 Precinct 2,United States Senator,,Gary Peters,378
+321,City of Dowagiac Ward 2 Precinct 2,United States Senator,,John James,406
+322,City of Dowagiac Ward 2 Precinct 2,United States Senator,,Valerie L. Willis,6
+323,City of Dowagiac Ward 2 Precinct 2,United States Senator,,Marcia Squier,4
+324,City of Dowagiac Ward 2 Precinct 2,United States Senator,,Doug Dern,2
+325,City of Dowagiac Ward 2 Precinct 2,United States Senator,,Total write-in,1
+326,City of Dowagiac Ward 3 Precinct 3,United States Senator,,Gary Peters,284
+327,City of Dowagiac Ward 3 Precinct 3,United States Senator,,John James,350
+328,City of Dowagiac Ward 3 Precinct 3,United States Senator,,Valerie L. Willis,5
+329,City of Dowagiac Ward 3 Precinct 3,United States Senator,,Marcia Squier,3
+330,City of Dowagiac Ward 3 Precinct 3,United States Senator,,Doug Dern,2
+331,City of Dowagiac Ward 3 Precinct 3,United States Senator,,Total write-in,2
+332,Howard Township Precinct 1,United States Senator,,Gary Peters,491
+333,Howard Township Precinct 1,United States Senator,,John James,"1,086"
+334,Howard Township Precinct 1,United States Senator,,Valerie L. Willis,13
+335,Howard Township Precinct 1,United States Senator,,Marcia Squier,5
+336,Howard Township Precinct 1,United States Senator,,Doug Dern,4
+337,Howard Township Precinct 1,United States Senator,,Total write-in,2
+338,Howard Township Precinct 2,United States Senator,,Gary Peters,548
+339,Howard Township Precinct 2,United States Senator,,John James,"1,071"
+340,Howard Township Precinct 2,United States Senator,,Valerie L. Willis,14
+341,Howard Township Precinct 2,United States Senator,,Marcia Squier,5
+342,Howard Township Precinct 2,United States Senator,,Doug Dern,5
+343,Howard Township Precinct 2,United States Senator,,Total write-in,3
+344,Jefferson Township Precinct 1,United States Senator,,Gary Peters,428
+345,Jefferson Township Precinct 1,United States Senator,,John James,927
+346,Jefferson Township Precinct 1,United States Senator,,Valerie L. Willis,16
+347,Jefferson Township Precinct 1,United States Senator,,Marcia Squier,9
+348,Jefferson Township Precinct 1,United States Senator,,Doug Dern,5
+349,Jefferson Township Precinct 1,United States Senator,,Total write-in,3
+350,LaGrange Township Precinct 1,United States Senator,,Gary Peters,711
+351,LaGrange Township Precinct 1,United States Senator,,John James,794
+352,LaGrange Township Precinct 1,United States Senator,,Valerie L. Willis,16
+353,LaGrange Township Precinct 1,United States Senator,,Marcia Squier,15
+354,LaGrange Township Precinct 1,United States Senator,,Doug Dern,5
+355,LaGrange Township Precinct 1,United States Senator,,Total write-in,1
+356,Marcellus Township Precinct 1,United States Senator,,Gary Peters,407
+357,Marcellus Township Precinct 1,United States Senator,,John James,749
+358,Marcellus Township Precinct 1,United States Senator,,Valerie L. Willis,25
+359,Marcellus Township Precinct 1,United States Senator,,Marcia Squier,15
+360,Marcellus Township Precinct 1,United States Senator,,Doug Dern,5
+361,Marcellus Township Precinct 1,United States Senator,,Total write-in,3
+362,Mason Township Precinct 1,United States Senator,,Gary Peters,327
+363,Mason Township Precinct 1,United States Senator,,John James,945
+364,Mason Township Precinct 1,United States Senator,,Valerie L. Willis,14
+365,Mason Township Precinct 1,United States Senator,,Marcia Squier,9
+366,Mason Township Precinct 1,United States Senator,,Doug Dern,2
+367,Mason Township Precinct 1,United States Senator,,Total write-in,1
+368,Milton Township Precinct 1,United States Senator,,Gary Peters,548
+369,Milton Township Precinct 1,United States Senator,,John James,"1,379"
+370,Milton Township Precinct 1,United States Senator,,Valerie L. Willis,14
+371,Milton Township Precinct 1,United States Senator,,Marcia Squier,12
+372,Milton Township Precinct 1,United States Senator,,Doug Dern,2
+373,Milton Township Precinct 1,United States Senator,,Total write-in,1
+374,Newberg Township Precinct 1,United States Senator,,Gary Peters,226
+375,Newberg Township Precinct 1,United States Senator,,John James,631
+376,Newberg Township Precinct 1,United States Senator,,Valerie L. Willis,12
+377,Newberg Township Precinct 1,United States Senator,,Marcia Squier,2
+378,Newberg Township Precinct 1,United States Senator,,Doug Dern,5
+379,Newberg Township Precinct 1,United States Senator,,Total write-in,0
+380,Ontwa Township Precinct 1,United States Senator,,Gary Peters,493
+381,Ontwa Township Precinct 1,United States Senator,,John James,"1,067"
+382,Ontwa Township Precinct 1,United States Senator,,Valerie L. Willis,11
+383,Ontwa Township Precinct 1,United States Senator,,Marcia Squier,13
+384,Ontwa Township Precinct 1,United States Senator,,Doug Dern,2
+385,Ontwa Township Precinct 1,United States Senator,,Total write-in,0
+386,Ontwa Township Precinct 2,United States Senator,,Gary Peters,498
+387,Ontwa Township Precinct 2,United States Senator,,John James,"1,146"
+388,Ontwa Township Precinct 2,United States Senator,,Valerie L. Willis,10
+389,Ontwa Township Precinct 2,United States Senator,,Marcia Squier,6
+390,Ontwa Township Precinct 2,United States Senator,,Doug Dern,4
+391,Ontwa Township Precinct 2,United States Senator,,Total write-in,1
+392,Penn Township Precinct 1,United States Senator,,Gary Peters,367
+393,Penn Township Precinct 1,United States Senator,,John James,630
+394,Penn Township Precinct 1,United States Senator,,Valerie L. Willis,8
+395,Penn Township Precinct 1,United States Senator,,Marcia Squier,6
+396,Penn Township Precinct 1,United States Senator,,Doug Dern,0
+397,Penn Township Precinct 1,United States Senator,,Total write-in,0
+398,Pokagon Township Precinct 1,United States Senator,,Gary Peters,394
+399,Pokagon Township Precinct 1,United States Senator,,John James,756
+400,Pokagon Township Precinct 1,United States Senator,,Valerie L. Willis,9
+401,Pokagon Township Precinct 1,United States Senator,,Marcia Squier,12
+402,Pokagon Township Precinct 1,United States Senator,,Doug Dern,2
+403,Pokagon Township Precinct 1,United States Senator,,Total write-in,0
+404,Porter Township Precinct 1,United States Senator,,Gary Peters,327
+405,Porter Township Precinct 1,United States Senator,,John James,887
+406,Porter Township Precinct 1,United States Senator,,Valerie L. Willis,4
+407,Porter Township Precinct 1,United States Senator,,Marcia Squier,9
+408,Porter Township Precinct 1,United States Senator,,Doug Dern,2
+409,Porter Township Precinct 1,United States Senator,,Total write-in,0
+410,Porter Township Precinct 2,United States Senator,,Gary Peters,273
+411,Porter Township Precinct 2,United States Senator,,John James,710
+412,Porter Township Precinct 2,United States Senator,,Valerie L. Willis,8
+413,Porter Township Precinct 2,United States Senator,,Marcia Squier,4
+414,Porter Township Precinct 2,United States Senator,,Doug Dern,1
+415,Porter Township Precinct 2,United States Senator,,Total write-in,0
+416,Silver Creek Township Precinct 1,United States Senator,,Gary Peters,509
+417,Silver Creek Township Precinct 1,United States Senator,,John James,"1,150"
+418,Silver Creek Township Precinct 1,United States Senator,,Valerie L. Willis,17
+419,Silver Creek Township Precinct 1,United States Senator,,Marcia Squier,4
+420,Silver Creek Township Precinct 1,United States Senator,,Doug Dern,4
+421,Silver Creek Township Precinct 1,United States Senator,,Total write-in,2
+422,Volinia Township Precinct 1,United States Senator,,Gary Peters,183
+423,Volinia Township Precinct 1,United States Senator,,John James,455
+424,Volinia Township Precinct 1,United States Senator,,Valerie L. Willis,8
+425,Volinia Township Precinct 1,United States Senator,,Marcia Squier,3
+426,Volinia Township Precinct 1,United States Senator,,Doug Dern,0
+427,Volinia Township Precinct 1,United States Senator,,Total write-in,2
+428,Wayne Township Precinct 1,United States Senator,,Gary Peters,392
+429,Wayne Township Precinct 1,United States Senator,,John James,833
+430,Wayne Township Precinct 1,United States Senator,,Valerie L. Willis,19
+431,Wayne Township Precinct 1,United States Senator,,Marcia Squier,9
+432,Wayne Township Precinct 1,United States Senator,,Doug Dern,2
+433,Wayne Township Precinct 1,United States Senator,,Total write-in,4
+434,Total,Representative in Congress ,6,Gary Peters,"8,565"
+435,Total,Representative in Congress ,6,John James,"16,814"
+436,Total,Representative in Congress ,6,Valerie L. Willis,253
+437,Total,Representative in Congress ,6,Marcia Squier,161
+438,Total,Representative in Congress ,6,Doug Dern,58
+439,Total,Representative in Congress ,6,Total write-in,29
+440,Calvin Township Precinct 1,Representative in Congress ,6,Jon Hoadley,356
+441,Calvin Township Precinct 1,Representative in Congress ,6,Fred Upton,599
+442,Calvin Township Precinct 1,Representative in Congress ,6,Jeff DePoy,28
+443,Calvin Township Precinct 1,Representative in Congress ,6,John Lawrence,9
+444,Calvin Township Precinct 1,Representative in Congress ,6,Total write-in,3
+445,City of Dowagiac Ward 1 Precinct 1,Representative in Congress ,6,Jon Hoadley,380
+446,City of Dowagiac Ward 1 Precinct 1,Representative in Congress ,6,Fred Upton,252
+447,City of Dowagiac Ward 1 Precinct 1,Representative in Congress ,6,Jeff DePoy,25
+448,City of Dowagiac Ward 1 Precinct 1,Representative in Congress ,6,John Lawrence,13
+449,City of Dowagiac Ward 1 Precinct 1,Representative in Congress ,6,Total write-in,3
+450,City of Dowagiac Ward 2 Precinct 2,Representative in Congress ,6,Jon Hoadley,347
+451,City of Dowagiac Ward 2 Precinct 2,Representative in Congress ,6,Fred Upton,416
+452,City of Dowagiac Ward 2 Precinct 2,Representative in Congress ,6,Jeff DePoy,29
+453,City of Dowagiac Ward 2 Precinct 2,Representative in Congress ,6,John Lawrence,7
+454,City of Dowagiac Ward 2 Precinct 2,Representative in Congress ,6,Total write-in,1
+455,City of Dowagiac Ward 3 Precinct 3,Representative in Congress ,6,Jon Hoadley,272
+456,City of Dowagiac Ward 3 Precinct 3,Representative in Congress ,6,Fred Upton,346
+457,City of Dowagiac Ward 3 Precinct 3,Representative in Congress ,6,Jeff DePoy,16
+458,City of Dowagiac Ward 3 Precinct 3,Representative in Congress ,6,John Lawrence,5
+459,City of Dowagiac Ward 3 Precinct 3,Representative in Congress ,6,Total write-in,3
+460,Howard Township Precinct 1,Representative in Congress ,6,Jon Hoadley,436
+461,Howard Township Precinct 1,Representative in Congress ,6,Fred Upton,"1,044"
+462,Howard Township Precinct 1,Representative in Congress ,6,Jeff DePoy,109
+463,Howard Township Precinct 1,Representative in Congress ,6,John Lawrence,12
+464,Howard Township Precinct 1,Representative in Congress ,6,Total write-in,3
+465,Howard Township Precinct 2,Representative in Congress ,6,Jon Hoadley,470
+466,Howard Township Precinct 2,Representative in Congress ,6,Fred Upton,"1,084"
+467,Howard Township Precinct 2,Representative in Congress ,6,Jeff DePoy,70
+468,Howard Township Precinct 2,Representative in Congress ,6,John Lawrence,18
+469,Howard Township Precinct 2,Representative in Congress ,6,Total write-in,1
+470,Jefferson Township Precinct 1,Representative in Congress ,6,Jon Hoadley,408
+471,Jefferson Township Precinct 1,Representative in Congress ,6,Fred Upton,909
+472,Jefferson Township Precinct 1,Representative in Congress ,6,Jeff DePoy,49
+473,Jefferson Township Precinct 1,Representative in Congress ,6,John Lawrence,14
+474,Jefferson Township Precinct 1,Representative in Congress ,6,Total write-in,3
+475,LaGrange Township Precinct 1,Representative in Congress ,6,Jon Hoadley,653
+476,LaGrange Township Precinct 1,Representative in Congress ,6,Fred Upton,806
+477,LaGrange Township Precinct 1,Representative in Congress ,6,Jeff DePoy,54
+478,LaGrange Township Precinct 1,Representative in Congress ,6,John Lawrence,20
+479,LaGrange Township Precinct 1,Representative in Congress ,6,Total write-in,5
+480,Marcellus Township Precinct 1,Representative in Congress ,6,Jon Hoadley,385
+481,Marcellus Township Precinct 1,Representative in Congress ,6,Fred Upton,728
+482,Marcellus Township Precinct 1,Representative in Congress ,6,Jeff DePoy,45
+483,Marcellus Township Precinct 1,Representative in Congress ,6,John Lawrence,32
+484,Marcellus Township Precinct 1,Representative in Congress ,6,Total write-in,10
+485,Mason Township Precinct 1,Representative in Congress ,6,Jon Hoadley,306
+486,Mason Township Precinct 1,Representative in Congress ,6,Fred Upton,928
+487,Mason Township Precinct 1,Representative in Congress ,6,Jeff DePoy,36
+488,Mason Township Precinct 1,Representative in Congress ,6,John Lawrence,16
+489,Mason Township Precinct 1,Representative in Congress ,6,Total write-in,3
+490,Milton Township Precinct 1,Representative in Congress ,6,Jon Hoadley,489
+491,Milton Township Precinct 1,Representative in Congress ,6,Fred Upton,"1,379"
+492,Milton Township Precinct 1,Representative in Congress ,6,Jeff DePoy,75
+493,Milton Township Precinct 1,Representative in Congress ,6,John Lawrence,12
+494,Milton Township Precinct 1,Representative in Congress ,6,Total write-in,2
+495,Newberg Township Precinct 1,Representative in Congress ,6,Jon Hoadley,194
+496,Newberg Township Precinct 1,Representative in Congress ,6,Fred Upton,614
+497,Newberg Township Precinct 1,Representative in Congress ,6,Jeff DePoy,25
+498,Newberg Township Precinct 1,Representative in Congress ,6,John Lawrence,20
+499,Newberg Township Precinct 1,Representative in Congress ,6,Total write-in,14
+500,Ontwa Township Precinct 1,Representative in Congress ,6,Jon Hoadley,444
+501,Ontwa Township Precinct 1,Representative in Congress ,6,Fred Upton,"1,088"
+502,Ontwa Township Precinct 1,Representative in Congress ,6,Jeff DePoy,32
+503,Ontwa Township Precinct 1,Representative in Congress ,6,John Lawrence,17
+504,Ontwa Township Precinct 1,Representative in Congress ,6,Total write-in,1
+505,Ontwa Township Precinct 2,Representative in Congress ,6,Jon Hoadley,442
+506,Ontwa Township Precinct 2,Representative in Congress ,6,Fred Upton,"1,175"
+507,Ontwa Township Precinct 2,Representative in Congress ,6,Jeff DePoy,42
+508,Ontwa Township Precinct 2,Representative in Congress ,6,John Lawrence,9
+509,Ontwa Township Precinct 2,Representative in Congress ,6,Total write-in,4
+510,Penn Township Precinct 1,Representative in Congress ,6,Jon Hoadley,327
+511,Penn Township Precinct 1,Representative in Congress ,6,Fred Upton,643
+512,Penn Township Precinct 1,Representative in Congress ,6,Jeff DePoy,18
+513,Penn Township Precinct 1,Representative in Congress ,6,John Lawrence,8
+514,Penn Township Precinct 1,Representative in Congress ,6,Total write-in,15
+515,Pokagon Township Precinct 1,Representative in Congress ,6,Jon Hoadley,380
+516,Pokagon Township Precinct 1,Representative in Congress ,6,Fred Upton,701
+517,Pokagon Township Precinct 1,Representative in Congress ,6,Jeff DePoy,74
+518,Pokagon Township Precinct 1,Representative in Congress ,6,John Lawrence,14
+519,Pokagon Township Precinct 1,Representative in Congress ,6,Total write-in,2
+520,Porter Township Precinct 1,Representative in Congress ,6,Jon Hoadley,294
+521,Porter Township Precinct 1,Representative in Congress ,6,Fred Upton,900
+522,Porter Township Precinct 1,Representative in Congress ,6,Jeff DePoy,23
+523,Porter Township Precinct 1,Representative in Congress ,6,John Lawrence,4
+524,Porter Township Precinct 1,Representative in Congress ,6,Total write-in,6
+525,Porter Township Precinct 2,Representative in Congress ,6,Jon Hoadley,236
+526,Porter Township Precinct 2,Representative in Congress ,6,Fred Upton,726
+527,Porter Township Precinct 2,Representative in Congress ,6,Jeff DePoy,24
+528,Porter Township Precinct 2,Representative in Congress ,6,John Lawrence,8
+529,Porter Township Precinct 2,Representative in Congress ,6,Total write-in,2
+530,Silver Creek Township Precinct 1,Representative in Congress ,6,Jon Hoadley,472
+531,Silver Creek Township Precinct 1,Representative in Congress ,6,Fred Upton,"1,162"
+532,Silver Creek Township Precinct 1,Representative in Congress ,6,Jeff DePoy,45
+533,Silver Creek Township Precinct 1,Representative in Congress ,6,John Lawrence,13
+534,Silver Creek Township Precinct 1,Representative in Congress ,6,Total write-in,2
+535,Volinia Township Precinct 1,Representative in Congress ,6,Jon Hoadley,165
+536,Volinia Township Precinct 1,Representative in Congress ,6,Fred Upton,441
+537,Volinia Township Precinct 1,Representative in Congress ,6,Jeff DePoy,28
+538,Volinia Township Precinct 1,Representative in Congress ,6,John Lawrence,8
+539,Volinia Township Precinct 1,Representative in Congress ,6,Total write-in,2
+540,Wayne Township Precinct 1,Representative in Congress ,6,Jon Hoadley,355
+541,Wayne Township Precinct 1,Representative in Congress ,6,Fred Upton,803
+542,Wayne Township Precinct 1,Representative in Congress ,6,Jeff DePoy,66
+543,Wayne Township Precinct 1,Representative in Congress ,6,John Lawrence,24
+544,Wayne Township Precinct 1,Representative in Congress ,6,Total write-in,9
+545,Total,Representative in Congress ,6,Jon Hoadley,"7,811"
+546,Total,Representative in Congress ,6,Fred Upton,"16,744"
+547,Total,Representative in Congress ,6,Jeff DePoy,913
+548,Total,Representative in Congress ,6,John Lawrence,283
+549,Total,Representative in Congress ,6,Total write-in,94
+550,Calvin Township Precinct 1,Representative in Congress ,6,Amy L. East,412
+551,Calvin Township Precinct 1,Representative in Congress ,6,Steve Carra,558
+552,Calvin Township Precinct 1,Representative in Congress ,6,Total write-in,15
+553,City of Dowagiac Ward 1 Precinct 1,Representative in Congress ,6,Amy L. East,419
+554,City of Dowagiac Ward 1 Precinct 1,Representative in Congress ,6,Steve Carra,236
+555,City of Dowagiac Ward 1 Precinct 1,Representative in Congress ,6,Total write-in,12
+556,City of Dowagiac Ward 2 Precinct 2,Representative in Congress ,6,Amy L. East,391
+557,City of Dowagiac Ward 2 Precinct 2,Representative in Congress ,6,Steve Carra,384
+558,City of Dowagiac Ward 2 Precinct 2,Representative in Congress ,6,Total write-in,5
+559,City of Dowagiac Ward 3 Precinct 3,Representative in Congress ,6,Amy L. East,289
+560,City of Dowagiac Ward 3 Precinct 3,Representative in Congress ,6,Steve Carra,340
+561,City of Dowagiac Ward 3 Precinct 3,Representative in Congress ,6,Total write-in,4
+562,Jefferson Township Precinct 1,Representative in Congress ,6,Amy L. East,443
+563,Jefferson Township Precinct 1,Representative in Congress ,6,Steve Carra,885
+564,Jefferson Township Precinct 1,Representative in Congress ,6,Total write-in,18
+565,LaGrange Township Precinct 1,Representative in Congress ,6,Amy L. East,731
+566,LaGrange Township Precinct 1,Representative in Congress ,6,Steve Carra,776
+567,LaGrange Township Precinct 1,Representative in Congress ,6,Total write-in,11
+568,Marcellus Township Precinct 1,Representative in Congress ,6,Amy L. East,431
+569,Marcellus Township Precinct 1,Representative in Congress ,6,Steve Carra,730
+570,Marcellus Township Precinct 1,Representative in Congress ,6,Total write-in,18
+571,Mason Township Precinct 1,Representative in Congress ,6,Amy L. East,348
+572,Mason Township Precinct 1,Representative in Congress ,6,Steve Carra,904
+573,Mason Township Precinct 1,Representative in Congress ,6,Total write-in,14
+574,Newberg Township Precinct 1,Representative in Congress ,6,Amy L. East,231
+575,Newberg Township Precinct 1,Representative in Congress ,6,Steve Carra,618
+576,Newberg Township Precinct 1,Representative in Congress ,6,Total write-in,13
+577,Penn Township Precinct 1,Representative in Congress ,6,Amy L. East,371
+578,Penn Township Precinct 1,Representative in Congress ,6,Steve Carra,603
+579,Penn Township Precinct 1,Representative in Congress ,6,Total write-in,22
+580,Pokagon Township Precinct 1,Representative in Congress ,6,Amy L. East,411
+581,Pokagon Township Precinct 1,Representative in Congress ,6,Steve Carra,728
+582,Pokagon Township Precinct 1,Representative in Congress ,6,Total write-in,10
+583,Porter Township Precinct 1,Representative in Congress ,6,Amy L. East,335
+584,Porter Township Precinct 1,Representative in Congress ,6,Steve Carra,860
+585,Porter Township Precinct 1,Representative in Congress ,6,Total write-in,10
+586,Porter Township Precinct 2,Representative in Congress ,6,Amy L. East,284
+587,Porter Township Precinct 2,Representative in Congress ,6,Steve Carra,689
+588,Porter Township Precinct 2,Representative in Congress ,6,Total write-in,11
+589,Volinia Township Precinct 1,Representative in Congress ,6,Amy L. East,194
+590,Volinia Township Precinct 1,Representative in Congress ,6,Steve Carra,439
+591,Volinia Township Precinct 1,Representative in Congress ,6,Total write-in,2
+592,Wayne Township Precinct 1,Representative in Congress ,6,Amy L. East,415
+593,Wayne Township Precinct 1,Representative in Congress ,6,Steve Carra,812
+594,Wayne Township Precinct 1,Representative in Congress ,6,Total write-in,14
+595,Total,Rep in State Legislature ,87,Amy L. East,"5,705"
+596,Total,Rep in State Legislature ,87,Steve Carra,"9,562"
+597,Total,Rep in State Legislature ,87,Total write-in,179
+598,Howard Township Precinct 1,Rep in State Legislature ,87,Dan VandenHeede,449
+599,Howard Township Precinct 1,Rep in State Legislature ,87,Brad Paquette,"1,119"
+600,Howard Township Precinct 1,Rep in State Legislature ,87,Andrew J. Warner,17
+601,Howard Township Precinct 1,Rep in State Legislature ,87,Total write-in,1
+602,Howard Township Precinct 2,Rep in State Legislature ,87,Dan VandenHeede,507
+603,Howard Township Precinct 2,Rep in State Legislature ,87,Brad Paquette,"1,112"
+604,Howard Township Precinct 2,Rep in State Legislature ,87,Andrew J. Warner,23
+605,Howard Township Precinct 2,Rep in State Legislature ,87,Total write-in,2
+606,Milton Township Precinct 1,Rep in State Legislature ,87,Dan VandenHeede,512
+607,Milton Township Precinct 1,Rep in State Legislature ,87,Brad Paquette,"1,398"
+608,Milton Township Precinct 1,Rep in State Legislature ,87,Andrew J. Warner,22
+609,Milton Township Precinct 1,Rep in State Legislature ,87,Total write-in,3
+610,Ontwa Township Precinct 1,Rep in State Legislature ,87,Dan VandenHeede,496
+611,Ontwa Township Precinct 1,Rep in State Legislature ,87,Brad Paquette,"1,040"
+612,Ontwa Township Precinct 1,Rep in State Legislature ,87,Andrew J. Warner,15
+613,Ontwa Township Precinct 1,Rep in State Legislature ,87,Total write-in,2
+614,Ontwa Township Precinct 2,Rep in State Legislature ,87,Dan VandenHeede,472
+615,Ontwa Township Precinct 2,Rep in State Legislature ,87,Brad Paquette,"1,155"
+616,Ontwa Township Precinct 2,Rep in State Legislature ,87,Andrew J. Warner,17
+617,Ontwa Township Precinct 2,Rep in State Legislature ,87,Total write-in,3
+618,Silver Creek Township Precinct 1,Rep in State Legislature ,87,Dan VandenHeede,533
+619,Silver Creek Township Precinct 1,Rep in State Legislature ,87,Brad Paquette,"1,118"
+620,Silver Creek Township Precinct 1,Rep in State Legislature ,87,Andrew J. Warner,18
+621,Silver Creek Township Precinct 1,Rep in State Legislature ,87,Total write-in,3
+622,Total,Rep in State Legislature ,87,Dan VandenHeede,"2,969"
+623,Total,Rep in State Legislature ,87,Brad Paquette,"6,942"
+624,Total,Rep in State Legislature ,87,Andrew J. Warner,112
+625,Total,Rep in State Legislature ,87,Total write-in,14
