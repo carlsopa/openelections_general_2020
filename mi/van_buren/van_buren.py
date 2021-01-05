@@ -4,8 +4,11 @@ import numpy as np
 
 new = True
 pdf_file = 'Van Buren MI Results per Precinct Data report.pdf'
+county_name = 'Van Buren'
 #unable to get the race from the first page, so we have to manually add it in
 race_name = 'President/Vice Pres'
+#lists that hold all the data and then populate the new data frame
+county = []
 precinct = []
 candidate = []
 district = []
@@ -109,6 +112,8 @@ while start_page <= end_page:
 
     start_page = start_page+1
 
-final = {'Precinct':precinct,'Office':race,'District':district,'Candidate':candidate,'Votes':votes}
+for x in precinct:
+    county.append(county_name)
+final = {'County':county,'Precinct':precinct,'Office':race,'District':district,'Candidate':candidate,'Votes':votes}
 new = pd.DataFrame(final)
-new.to_csv('20201103_mi_general_van_buren_precinct.csv')
+new.to_csv('20201103__mi__general__van__buren__precinct.csv')

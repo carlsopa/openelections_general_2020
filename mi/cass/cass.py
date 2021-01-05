@@ -4,13 +4,17 @@ import numpy as np
 
 new = True
 pdf_file = 'Cass MI Results per Precinct Data report.pdf'
+county_name = 'Cass'
 #unable to get the race from the first page, so we have to manually add it in
 race_name = 'Straight Party Ticket'
+#lists that hold all the data and then populate the new data frame
+county = []
 precinct = []
 candidate = []
 votes = []
 race = []
 district = []
+
 start_page = 1
 end_page = 4
 
@@ -33,7 +37,6 @@ def local_district(race):
         result = [race[:-index+1],c]
     else:
         result = [race,np.nan]
-    # print(result)
     return(result)
 
 while start_page <= end_page:
@@ -45,7 +48,6 @@ while start_page <= end_page:
         print(start_page)
         if start_page == 1:
             df.drop(df.columns[0],axis=1,inplace=True)
-            print(df)
             skip_rows = []
             candidateList = []
 
@@ -148,7 +150,8 @@ while start_page <= end_page:
                 
 
     start_page = start_page+1
-
-final = {'precinct':precinct,'office':race,'district':district,'candidate':candidate,'votes':votes}
+for x in precinct:
+    county.append(county_name)
+final = {'County':county,'Precinct':precinct,'Office':race,'District':district,'Candidate':candidate,'Votes':votes}
 new = pd.DataFrame(final)
-new.to_csv('20201103_mi_general_cass_precinct.csv')
+new.to_csv('20201103__mi__general__cass__precinct.csv')
